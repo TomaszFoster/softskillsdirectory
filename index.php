@@ -12,8 +12,12 @@
   			
   			<div class="columns small-12">
   				
-  				<h1>Soft Skills Directory</h1>
-  				<p>"The chains of habit are too light to be felt until they're too heavy to be broken." - Warren Buffet</p>
+  				<h1>
+  					Soft Skills Directory
+  				</h1>
+  				<p>
+  					Mouse-over any link for a description
+  				</p>
 
   			</div>
 
