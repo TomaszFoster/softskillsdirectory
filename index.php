@@ -2,6 +2,8 @@
 <?php 
 	$str = file_get_contents('data.json'); 
 	$data = json_decode($str,true);
+	// array_multisort($data);
+	// print_r($data);
 ?>
 
   	<div class="container">
@@ -17,11 +19,11 @@
 
   		</div>
 
-  		<div class="row ">
+  		<div class="row grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 16 }'>
   			
   			<?php foreach ($data as $c): ?>
   			
-	  			<div class="columns medium-4 small-12">
+	  			<div class="grid-item">
 	  				
 	  				<div class="subject">
 	  					

@@ -77,3 +77,10 @@ footer {
 		transform: translate(-50%,-50%);
 	}
 }
+.grid {
+	.grid-item {
+		float: left;
+		width: 30%;
+		margin: 0 1rem 1rem;
+	}
+}

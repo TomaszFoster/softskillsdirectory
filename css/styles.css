@@ -8379,3 +8379,9 @@ footer {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%); }
+
+/* line 81, scss/partials/_globals.scss */
+.grid .grid-item {
+  float: left;
+  width: 30%;
+  margin: 0 1rem 1rem; }
