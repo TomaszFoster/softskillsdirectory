@@ -8365,3 +8365,17 @@ a {
   /* line 63, scss/partials/_globals.scss */
   .subject .description {
     display: none; }
+
+/* line 67, scss/partials/_globals.scss */
+footer {
+  height: 4rem;
+  background-color: #1E1E20;
+  text-align: center;
+  position: relative; }
+  /* line 72, scss/partials/_globals.scss */
+  footer p {
+    color: #D9CB9E;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); }

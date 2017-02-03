@@ -1,61 +1,257 @@
 {
+	"languages" : {
+		"title" : "languages",
+		"links" : [
+			{
+				"name"  : "BBC Language",
+				"link"  : "http://www.bbc.co.uk/languages/",
+				"title" : "French, Spanish, Italian, and German are most well covered in their offerings.",
+				"price" : "free"
+			},
+			{
+				"name"  : "DuoLingo",
+				"link"  : "http://www.duolingo.com/",
+				"title" : "A very comprehensive resource with a large variety of offerings.",
+				"price" : "free"
+			},
+			{
+				"name"  : "Memrise",
+				"link"  : "http://www.memrise.com/",
+				"title" : "A bit less traditional in the manner they teach but with over 200 languages available and having people vote on the best way to pronounce words and phrases, it's a good resource to have.",
+				"price" : "free"
+			},
+			{
+				"name"  : "Open Culture",
+				"link"  : "http://www.openculture.com/freelanguagelessons",
+				"title" : "About 40+ languages with links to iTunes and other websites.",
+				"price" : "free"
+			},
+			{
+				"name"  : "Visualizing Japanese Grammar",
+				"link"  : "https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm",
+				"title" : "Very basic site from George Washington University that has 66 modules on the various grammatical structures of Japanese",
+				"price" : "free"
+			},
+			{
+				"name"  : "Foreign Service Institute",
+				"link"  : "http://www.fsi-language-courses.net/fsi-language-courses/",
+				"title" : "The FSI at the Dept. of State removed their free resources but a third party site has kept their content intact. The site is a bit slow to load but you can download all the content for each language in one go.",
+				"price" : "free"
+			},
+			{
+				"name"  : "Interagency Language Roundtable",
+				"link"  : "http://www.govtilr.org/Roadmaps/index.htm",
+				"title" : "All you military and government folk will appreciate the focus on Arabic, Russian, Ukranian, Persian, Hebrew and other languages. This is a non-funded government site that gives you a roadmap to learn each language regardless of where your proficiency is. It has a TON of external and additional resources including links to TV channels in the native language, radio stations, etc. Highly recommend.",
+				"price" : "free"
+			},
+			{
+				"name"  : "Defense Language Institute",
+				"link"  : "http://www.dliflc.edu/resources/products/",
+				"title" : "This is the online resource center for the military foreign language learning center in Monterey, CA. Highly recommend especially for those of you in the government and military",
+				"price" : "free"
+			},
+			{
+				"name"  : "Pitch Perfect Pinyin (Mandarin Chinese)",
+				"link"  : "https://www.laits.utexas.edu/ppp/learning.php?unit=0",
+				"title" : "University of Texas at Austin course on learning Mandarin Chinese and proper pronunciation",
+				"price" : "cost"
+			},
+			{
+				"name"  : "CIA World FactBook",
+				"link"  : "https://www.cia.gov/library/publications/the-world-factbook/",
+				"title" : "Not a foreign language resource but still an invaluable tool when deploying to another country to learn about the geography, economy, culture, transnational issues, and other information.",
+				"price" : "free"
+			}
+		]
+	},
 	"medical" : {
 		"title" : "medical",
 		"links" : [
 			{
-				"name"  : "NOLS",
-				"link"  : "//www.nols.edu",
-				"title" : "something about nols"
+				"name"  : "SOF Medical Handbook",
+				"link"  : "http://www.green-trust.org/freebooks/SOF_Medical_Handbook.pdf",
+				"title" : "The Special Operations Forces Medical Handbook, a great resource for emergency medicine. Note: a lot of this flies in the face of current medical practice and what is legal in the US, but in an emergency situation or when operating OCONUS, something in here could save your life. This is a downloadable pdf of the 1st Edition June 2001"
 			},
 			{
-				"name"  : "something",
-				"link"  : "//www.nols.edu",
-				"title" : "something about nols"
+				"name"  : "Stanford Courses on video",
+				"link"  : "http://itunes.stanford.edu/",
+				"title" : "Although many other resources besides health and medicine, Stanford has the best medical school in the country and most of the courses are available to view for free on iTunes under Health &amp; Fitness"
 			},
 			{
-				"name"  : "else",
-				"link"  : "//www.nols.edu",
-				"title" : "something about nols"
+				"name"  : "EdX - Health &amp; Safety",
+				"link"  : "https://www.edx.org/course/subject/health-safety",
+				"title" : "A variety of free to access lectures through many partner schools including Harvard, Berkeley, Michigan State and others. No hands on component obviously but if you're studying for a medical exam or otherwise, this can come in handy. Explore their other course subjects as well."
+			},
+			{
+				"name"  : "NOLS Wilderness Medicine",
+				"link"  : "https://nols.edu/en/courses/wilderness-medicine/",
+				"title" : "NOLS teaches the prevention, assessment, and treatment of injury and illness in remote and austere settings.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "REI Wilderness Medicine",
+				"link"  : "https://www.rei.com/outdoorschool/wilderness-medicine-classes.html",
+				"title" : "REI offers similar courses to NOLS in terms of WFR, WAFA, WEMT, etc",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Wilderness Medical Society",
+				"link"  : "http://www.wms.org/",
+				"title" : "Offers education in Mountain Medicine as well as Dive and Marine Medicine. Supposedly they have online courses becoming available soon.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Advanced Wilderness Life Support",
+				"link"  : "https://awls.org/",
+				"title" : "Offers Advanced Wilderness Life Support fo current medical professionals as well as Wilderness First Aid, Basic Wilderness Life Support, and online courses.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Vertical Medicine Resources",
+				"link"  : "http://www.vertical-medicine.com/",
+				"title" : "WFA, WFR, AWLS, First Aid, CPR, etc.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Wilderness Medical Associates",
+				"link"  : "https://www.wildmed.com/wilderness-medical-courses/",
+				"title" : "Same offerings as some other schools but also some specialty courses like Conflict &amp; Remote First Aid, Battlefield Medical Response, Offshore Emergency Medicine, and others.",
+				"price" : "cost"
 			}
 		]
 	},
-	"hiking" : {
-		"title" : "hiking",
+	"fitness" : {
+		"title" : "fitness",
 		"links" : [
 			{
-				"name"  : "lorem",
-				"link"  : "//www.nols.edu",
-				"title" : "something about nols"
+				"name"  : "CrossFit",
+				"link"  : "https://www.crossfit.com/",
+				"title" : "Hard to talk about functional fitness without mentioning CrossFit. With a free workout of the day on the site as well as a large list of courses and certification, there's plenty of good information on here. Also, for you MIL/LE folk, they offer discounts on every course, just send them an email (it's usually like 20% off)"
 			},
 			{
-				"name"  : "NOLS",
-				"link"  : "//www.nols.edu",
-				"title" : "something about nols"
+				"name"  : "Catalyst Athletics",
+				"link"  : "https://www.catalystathletics.com",
+				"title" : "These guys have been around forever. Not sure how to perform a movement properly? They have a vast resource of videos on proper technique for every movement. Amazing resource."
 			},
 			{
-				"name"  : "NOLS",
-				"link"  : "//www.nols.edu",
-				"title" : "something about nols"
+				"name"  : "Built by Bergeron",
+				"link"  : "https://www.builtbybergeron.com/comptrain-programming/",
+				"title" : "Ben Bergeron has coached 5 different CrossFit Games champions. His daily competitive programming is available online for free. Trying to go to Regionals? This is a great place to start."
+			},
+			{
+				"name"  : "SOFLETE",
+				"link"  : "https://soflete.com/",
+				"title" : "Looking for workout programming that's more adapted to the tactical athlete? Check out SOFLETE. It's not free, but they have strength and stamina tracks that are absolutely legit. Also I heard it's run by a bunch of clowns.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Mountain Tactical",
+				"link"  : "http://www.mtntactical.com",
+				"title" : "Amazing programming specifically adapted to the mountain and military athlete. They have in depth studies and you can get a lot of great information from them."
+			},
+			{
+				"name"  : "MisFit Athletics",
+				"link"  : "https://misfitathletics.com/",
+				"title" : "Great programming for competitive CrossFit athletes"
 			}
 		]
 	},
-	"shooting" : {
-		"title" : "shooting",
+	"hunting" : {
+		"title" : "hunting / bushcraft",
 		"links" : [
 			{
-				"name"  : "NOLS",
-				"link"  : "//www.nols.edu",
-				"title" : "something about nols"
+				"name"  : "Tom Brown Jr's Tracker School",
+				"link"  : "https://www.trackerschool.com/",
+				"title" : "Tom Brown Jr teaches tracking and wilderness survival to civilians and military. The movie 'The Hunted' with Benicio del Toro and Tommy Lee Jones is based on Tom Brown Jrs exploits. Although I haven't attended, I've heard amazing things from those who have. Courses are taugh in New Jersey primarily but there are a few also taught in California",
+				"price" : "cost"
 			},
 			{
-				"name"  : "NOLS",
-				"link"  : "//www.nols.edu",
-				"title" : "something about nols"
+				"name"  : "Jack Mountain Bushcraft School",
+				"link"  : "http://jackmtn.com/",
+				"title" : "Our immersion programs integrate expedition and outdoor leadership, bushcraft, primitive living skills, field ecology (edible and medicinal plants, mammals and their tracks, weather, the night sky, etc.), expedition canoeing and snowshoeing, natural crafting, off-grid homesteading, fly fishing, building your own gear (canoe paddles, pack baskets, bows, crooked knives, etc.) and living a simple, outdoor life.",
+				"vet"   : "yes",
+				"price" : "cost"
+			}
+		]
+	},
+	"land nav" : {
+		"title" : "land navigation",
+		"links" : [
+			{
+				"name"  : "REI Outdoor School",
+				"link"  : "https://www.rei.com/outdoorschool/navigation-classes.html",
+				"title" : "Basic and intermediate courses to learn to use a map and compass. For a quick refresher or for your first foray into land navigation, this isn't a bad place to start.",
+				"price" : "cost"
 			},
 			{
-				"name"  : "NOLS",
-				"link"  : "//www.nols.edu",
-				"title" : "something about nols"
+				"name"  : "Army Study Guide - Land Nav",
+				"link"  : "http://www.armystudyguide.com/content/army_board_study_guide_topics/land_navigation_map_reading/index.shtml",
+				"title" : "Pretty self explanatory. Free resource that teaches you about land navigation, map and compass reading, and army board study material."
+			},
+			{
+				"name"  : "Imminent Threat Solutions Land Nav",
+				"link"  : "http://www.itstactical.com/skillcom/navigation/the-complete-guide-to-land-navigation-with-the-military-grid-reference-system/",
+				"title" : "A great guide to land navigation using the Military Grid Reference System"
+			}
+		]
+	},
+	"publications" : {
+		"title" : "publications",
+		"links" : [
+			{
+				"name"  : "CIA Library",
+				"link"  : "https://www.cia.gov/library",
+				"title" : "Publications, intelligence literature, intelligence history."
+			},
+			{
+				"name"  : "FBI Publications",
+				"link"  : "https://www.fbi.gov/resources/library",
+				"title" : "Reports and publications ranging in topic from wordplace violence, terrorism reports, bank crime, and various handbooks to help facilitate civilian and law enforcement interaction."
+			},
+			{
+				"name"  : "Department of State",
+				"link"  : "https://www.state.gov/r/pa/ei/subject/index.htm",
+				"title" : "Public reports and policies from the US Department of State"
+			}
+		]
+	},
+	"computer" : {
+		"title" : "computer / it",
+		"links" : [
+			{
+				"name"  : "MIT OpenCourseware",
+				"link"  : "https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science",
+				"title" : "MIT OpenCourseware has a lot of computer science and electrical engineering courses available for anyone to view for free."
+			},
+			{
+				"name"  : "University of Reddit",
+				"link"  : "http://ureddit.com/category/23442/computer-science",
+				"title" : "The University of Reddit is a great resource to learn computer programming as well as network security and it's all free"
+			},
+			{
+				"name"  : "Reddit /r/netsec",
+				"link"  : "https://www.reddit.com/r/netsec/",
+				"title" : "Subreddit for network security. A lot of great reading on here that's constantly updated."
+			},
+			{
+				"name"  : "Saylor",
+				"link"  : "https://learn.saylor.org/course/index.php?categoryid=9",
+				"title" : "Although they have a range of course topics, their computer science track is the most extensive."
+			},
+			{
+				"name"  : "Free Tech Books",
+				"link"  : "http://www.freetechbooks.com/",
+				"title" : "A collection of free technical books including computer science, operating systems, programming, scripting, mathematics, web and mobile development, signals processing, and others. Great place to get technical reading to put on a kindle paperwhite for later."
+			}
+		]
+	},
+	"other" : {
+		"title" : "other",
+		"links" : [
+			{
+				"name"  : "Yale X Coursera - Intro to Negotiation",
+				"link"  : "https://www.coursera.org/learn/negotiation",
+				"title" : "Exactly what it sounds like. This course is not free but the free track allows you to access the full lecture videos and some of the assignments."
 			}
 		]
 	}

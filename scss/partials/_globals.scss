@@ -64,3 +64,16 @@ a {
 		display: none;
 	}
 }
+footer {
+	height: 4rem;
+	background-color: $gray-dark;
+	text-align: center;
+	position: relative;
+	p {
+		color: $tan;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%,-50%);
+	}
+}
