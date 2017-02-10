@@ -52,6 +52,12 @@
 				"link"  : "https://www.wildmed.com/wilderness-medical-courses/",
 				"title" : "Same offerings as some other schools but also some specialty courses like Conflict &amp; Remote First Aid, Battlefield Medical Response, Offshore Emergency Medicine, and others.",
 				"price" : "cost"
+			},
+			{
+				"name"  : "Dark Angel Medical",
+				"link"  : "http://darkangelmedical.com/training/",
+				"title" : "IFAKs and Direct Action Response Training",
+				"price" : "cost"
 			}
 		]
 	},
@@ -308,6 +314,11 @@
 				"name"  : "Yale X Coursera - Intro to Negotiation",
 				"link"  : "https://www.coursera.org/learn/negotiation",
 				"title" : "Exactly what it sounds like. This course is not free but the free track allows you to access the full lecture videos and some of the assignments."
+			},
+			{
+				"name"  : "CIA Declassified Coldwar Russian Jokes",
+				"link"  : "https://www.cia.gov/library/readingroom/docs/CIA-RDP89G00720R000800040003-6.pdf",
+				"title" : "Random can be fun."
 			}
 		]
 	}
