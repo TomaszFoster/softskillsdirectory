@@ -77,7 +77,17 @@ footer {
 .grid {
 	.grid-item {
 		float: left;
-		width: 30%;
-		margin: 0 1rem 1rem;
+		
+		margin: 0 1% 1rem;
+	    @media #{$large-up} {
+	    	width: 30%;
+	    }
+	    @media #{$medium-only} {
+	    	width: 46%;
+	    }
+	    @media #{$small-only} {
+	    	width: 100%;
+	    	margin: 0 0 1rem;
+	    }
 	}
 }

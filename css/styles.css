@@ -8380,5 +8380,17 @@ footer {
 /* line 78, scss/partials/_globals.scss */
 .grid .grid-item {
   float: left;
-  width: 30%;
-  margin: 0 1rem 1rem; }
+  margin: 0 1% 1rem; }
+  @media only screen and (min-width: 64.0625em) {
+    /* line 78, scss/partials/_globals.scss */
+    .grid .grid-item {
+      width: 30%; } }
+  @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+    /* line 78, scss/partials/_globals.scss */
+    .grid .grid-item {
+      width: 46%; } }
+  @media only screen and (max-width: 40em) {
+    /* line 78, scss/partials/_globals.scss */
+    .grid .grid-item {
+      width: 100%;
+      margin: 0 0 1rem; } }
