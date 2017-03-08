@@ -13,7 +13,7 @@
   			<div class="columns small-12">
   				
   				<h1>
-  					Soft Skills Directory
+  					Hope is not a good plan 
   				</h1>
   				<p>
   					Mouse-over any link for a description

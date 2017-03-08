@@ -5,7 +5,8 @@
 			{
 				"name"  : "SOF Medical Handbook",
 				"link"  : "http://www.green-trust.org/freebooks/SOF_Medical_Handbook.pdf",
-				"title" : "The Special Operations Forces Medical Handbook, a great resource for emergency medicine. Note: a lot of this flies in the face of current medical practice and what is legal in the US, but in an emergency situation or when operating OCONUS, something in here could save your life. This is a downloadable pdf of the 1st Edition June 2001"
+				"title" : "The Special Operations Forces Medical Handbook, a great resource for emergency medicine. Note: a lot of this flies in the face of current medical practice and what is legal in the US, but in an emergency situation or when operating OCONUS, something in here could save your life. This is a downloadable pdf of the 1st Edition June 2001",
+				"type"	: "pdf"
 			},
 			{
 				"name"  : "Stanford Courses on video",
@@ -94,6 +95,41 @@
 				"name"  : "MisFit Athletics",
 				"link"  : "https://misfitathletics.com/",
 				"title" : "Great programming for competitive CrossFit athletes"
+			},
+			{
+				"name"  : "Beast Skills",
+				"link"  : "http://www.beastskills.com",
+				"title" : "A self taught gymnast named Jim provides a wealth of free information on bodyweight training. Swell guy, did a gymanstic workshop with him outside of Washington DC for next to nothing. Highly recommend his 1 day seminars.",
+				"price" : "cost"
+			}
+		]
+	},
+	"nutrition" : {
+		"title" : "nutrition",
+		"links" : [
+			{
+				"name"  : "CrossFit Zone Meal Plans",
+				"link"  : "http://library.crossfit.com/free/pdf/CFJ_2015_05_Zone6.pdf",
+				"title" : "Print pages 4 and 5 and put them on your fridge. I revisit this article again and again.",
+				"type"	: "pdf"
+			},
+			{
+				"name"  : "Paleo Nick",
+				"link"  : "https://paleonick.com/",
+				"title" : "I got to meet Nick at a CrossFit Culinary Ninja course (discontinued) and the tips and tricks I learned from him were invaluable. His recipes are awesome, try the sweet chorizo hash, it's legit my favorite.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "The 4 Hour Body",
+				"link"  : "http://amzn.to/2ncsypT",
+				"title" : "This book is hands down what got me really interested in nutrition and fitness. After reading it and slowly applying some of its principles, I lost 37 pounds in 2 months. I'd never been so lean. Everything is based on the 80/20 rule, the maximum amount of benefit for the least amount of work. Highly, highly recommend.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Enter the Zone",
+				"link"  : "http://amzn.to/2mhfuAu",
+				"title" : "Not necessary but if you're trying to eat zone, whether it's paleo or not, Dr. Barry Sears had the original idea behind it. Pretty simple stuff, don't spike your blood sugar but don't let it fall either, stay in the zone.",
+				"price" : "cost"
 			}
 		]
 	},
@@ -274,6 +310,11 @@
 				"name"  : "Department of State",
 				"link"  : "https://www.state.gov/r/pa/ei/subject/index.htm",
 				"title" : "Public reports and policies from the US Department of State"
+			},
+			{
+				"name"  : "NASA",
+				"link"  : "https://www.nasa.gov/connect/ebooks/index.html",
+				"title" : "NASA eBooks"
 			}
 		]
 	},
@@ -304,6 +345,17 @@
 				"name"  : "Free Tech Books",
 				"link"  : "http://www.freetechbooks.com/",
 				"title" : "A collection of free technical books including computer science, operating systems, programming, scripting, mathematics, web and mobile development, signals processing, and others. Great place to get technical reading to put on a kindle paperwhite for later."
+			},
+			{
+				"name"  : "Getting Started with Kali Linux",
+				"link"  : "http://docs.kali.org/category/introduction",
+				"title" : "The go-to operating system for penetration testing, web application hacking, wireless hacking and the like. Used by white, gray, and black-hat hackers alike."
+			},
+			{
+				"name"  : "Web Application Hackers Handbook",
+				"link"  : "http://mdsec.net/wahh/",
+				"title" : "This is absolutely my favorite book on web application security whether you're a novice or an expert in the field, there's so much you can learn. Definitely worth purchasing.",
+				"price" : "cost"
 			}
 		]
 	},
@@ -318,7 +370,8 @@
 			{
 				"name"  : "CIA Declassified Coldwar Russian Jokes",
 				"link"  : "https://www.cia.gov/library/readingroom/docs/CIA-RDP89G00720R000800040003-6.pdf",
-				"title" : "Random can be fun."
+				"title" : "Random can be fun.",
+				"type"	: "pdf"
 			}
 		]
 	}
