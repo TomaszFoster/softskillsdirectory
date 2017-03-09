@@ -240,6 +240,16 @@
 		"title" : "survival / bushcraft",
 		"links" : [
 			{
+				"name" 	: "Norwegian Bushcraft",
+				"link"	: "https://www.youtube.com/user/NorwegianBushcraft",
+				"title"	: "A YouTube channel from Norway that goes into bushcraft, survival, and wilderness skills. Some great videos on here and it's a free resource."
+			},
+			{
+				"name"  : "Hiking Upward",
+				"link"  : "https://www.hikingupward.com/",
+				"title" : "A resource for hikers mostly in the Mid Atlantic region. Great reviews of trails in the area."
+			},
+			{
 				"name"  : "Tom Brown Jr's Tracker School",
 				"link"  : "https://www.trackerschool.com/",
 				"title" : "New Jersey and California: Tom Brown Jr teaches tracking and wilderness survival to civilians and military. The movie 'The Hunted' with Benicio del Toro and Tommy Lee Jones is based on Tom Brown Jrs exploits. Although I haven't attended, I've heard amazing things from those who have.",
