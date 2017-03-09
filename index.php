@@ -13,8 +13,10 @@
   				<h1>
   					Hope is not a good plan 
   				</h1>
-  				<p>
+  				<p class="legend">
   					Mouse-over any link for a description
+  					| <i class="fa fa-usd" aria-hidden="true"></i> Costs money |
+  					<i class="fa fa-check" aria-hidden="true"></i> Highly Recommended
   				</p>
 
   			</div>
@@ -39,7 +41,19 @@
 
 		  					<?php foreach( $c['links'] as $item ): ?>
 
-		  						<li class="item <?php echo $item['price']=='cost'?'not-free':''; echo $item['vet']=='yes'?' gi-bill':''; ?>">
+		  						<li class="item <?php 
+		  							echo $item['price']=='cost' ? 'not-free' : ''; 
+		  							echo $item['vet']=='yes' ? ' gi-bill' : ''; 
+		  							echo $item['extra']=='recommended' ? ' recommended' : '';
+		  						?>">
+
+		  						<?php 
+		  							// recommended link icon
+		  							echo $item['extra']=='recommended' ? '<i class="fa fa-check" aria-hidden="true"></i>' : ''; 
+		  							// icon for courses that cost money
+		  							echo $item['price']=='cost' ? '<i class="fa fa-usd" aria-hidden="true"></i>' : ''; 
+
+		  						?>
 
 		  							<a href="<?php echo $item['link']; ?>" target="_blank" title="<?php echo $item['title'];?>" class="has-title">
 

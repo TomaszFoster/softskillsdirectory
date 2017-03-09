@@ -63,7 +63,8 @@
 			{
 				"name" 	: "Academi: Tactical SWAT Medical",
 				"link"	: "https://www.academi.com/training-courses/course-title/tactical-swat-medical-course/overview",
-				"title"	: "2 and 5 Day Tactical SWAT Medical Courses taught by Academi. Open to civilians."
+				"title"	: "2 and 5 Day Tactical SWAT Medical Courses taught by Academi. Open to civilians.",
+				"price"	: "cost"
 			}
 		]
 	},
@@ -162,6 +163,11 @@
 				"link"  : "http://amzn.to/2mhfuAu",
 				"title" : "Not necessary but if you're trying to eat zone, whether it's paleo or not, Dr. Barry Sears had the original idea behind it. Pretty simple stuff, don't spike your blood sugar but don't let it fall either, stay in the zone.",
 				"price" : "cost"
+			},
+			{
+				"name"	: "BioLayne",
+				"link"	: "https://www.biolayne.com/",
+				"title"	: "Nutrition information from a Layne Norton - Bodybuilding, Coaching, PhD. So much information."
 			}
 		]
 	},
@@ -172,22 +178,26 @@
 			{
 				"name"  : "Dynamis Alliance",
 				"link"  : "https://dynamisalliance.com/",
-				"title" : "Dom Raso, a former SEAL team member, teaches unarmed, blade and impact weapon tactics, weapons manipulation, low vis tactics, and cqb."
+				"title" : "Dom Raso, a former SEAL team member, teaches unarmed, blade and impact weapon tactics, weapons manipulation, low vis tactics, and cqb.",
+				"price"	: "cost"
 			},
 			{
 				"name"  : "Tony Blauer's SPEAR",
 				"link"  : "https://blauerspear.com/",
-				"title" : "Instinctual self defense playing off the bodies natural survival response."
+				"title" : "Instinctual self defense playing off the bodies natural survival response.",
+				"price"	: "cost"
 			},
 			{
 				"name"  : "Gracie Jiu-Jitsu / Survival Tactics",
 				"link"  : "http://www.gracieacademy.com/gst.asp",
-				"title" : "Yeah yeah, I said no martial arts but Gracie Jiu-Jitsu is standardized across the country and they offer Survival Tactics courses for Military and Law Enforcement. Everything up through Blue Belt is based on 36 of the most common takedowns, chokes, holds, and other movement patterns. The basics are the basics are the basics."
+				"title" : "Yeah yeah, I said no martial arts but Gracie Jiu-Jitsu is standardized across the country and they offer Survival Tactics courses for Military and Law Enforcement. Everything up through Blue Belt is based on 36 of the most common takedowns, chokes, holds, and other movement patterns. The basics are the basics are the basics.",
+				"price"	: "cost"
 			},
 			{
 				"name"  : "CrossFit Striking",
 				"link"  : "https://training.crossfit.com/striking",
-				"title" : "Great course that teaches the proper mechanics of different strikes (straight, hoook, uppercut, knee, ground striking, etc. No sparring in this course, just proper mechanics, conditioning, shadow boxing, and padwork. Taught by a Martial Arts Masters Hall of Fame inductee for Boxing and LAPD Swat member George Ryan."
+				"title" : "Great course that teaches the proper mechanics of different strikes (straight, hoook, uppercut, knee, ground striking, etc. No sparring in this course, just proper mechanics, conditioning, shadow boxing, and padwork. Taught by a Martial Arts Masters Hall of Fame inductee for Boxing and LAPD Swat member George Ryan.",
+				"price"	: "cost"
 			}
 		]
 	},
@@ -197,17 +207,20 @@
 			{
 				"name"  : "Appleseed Project",
 				"link"  : "https://appleseedinfo.org/",
-				"title" : "They 'promote civic responsibility through the teaching of colonial history and the American tradition of rifle marksmanship'. Beginners and experienced shooters will benefit from this course and costs are typically very low and have offerings in every state."
+				"title" : "They 'promote civic responsibility through the teaching of colonial history and the American tradition of rifle marksmanship'. Beginners and experienced shooters will benefit from this course and costs are typically very low and have offerings in every state.",
+				"price"	: "cost"
 			},
 			{
 				"name"  : "SOFLETE Shooting",
 				"link"  : "https://soflete.com/products/soflete-shooting",
-				"title" : "The range is one thing, but how well would you shoot if things really went down? With The Soflete Shooters Program, it’s easy to learn professional techniques that will help get you ready for any situation. Built using the latest tactics from special operations and competitive shooters, you’ll use live and dry fire drills to develop your skills under real-world stress conditions. Giving you all the tools you need, to take your shot to the next level."
+				"title" : "The range is one thing, but how well would you shoot if things really went down? With The Soflete Shooters Program, it’s easy to learn professional techniques that will help get you ready for any situation. Built using the latest tactics from special operations and competitive shooters, you’ll use live and dry fire drills to develop your skills under real-world stress conditions. Giving you all the tools you need, to take your shot to the next level.",
+				"price"	: "cost"
 			},
 			{
 				"name"  : "Academi",
 				"link"  : "https://www.academi.com/pages/training/courses",
-				"title" : "Individual course offerings open to MIL/LEO and civilians. Courses include armory, handgun, executive protection, high risk security, tactical swat medical, open driving, and others."
+				"title" : "Individual course offerings open to MIL/LEO and civilians. Courses include armory, handgun, executive protection, high risk security, tactical swat medical, open driving, and others.",
+				"price"	: "cost"
 			},
 			{
 				"name" 	: "Outdoor Life: Long Range Rifle",
@@ -232,7 +245,8 @@
 			{
 				"name"	: "Outdoor Life University",
 				"link"	: "https://www.outdoorlifeu.com/",
-				"title"	: "I never thought there would be online courses for hunting, fishing, kayaking, etc. What a time to be alive."
+				"title"	: "I never thought there would be online courses for hunting, fishing, kayaking, etc. What a time to be alive.",
+				"price"	: "cost"
 			}
 		]
 	},
@@ -275,7 +289,7 @@
 				"price" : "cost"
 			},
 			{
-				"name"  : "Mountain Shepard Wildnerness Survival School",
+				"name"  : "Mountain Shepard Wildnerness Survival",
 				"link"  : "https://mountainshepherd.com/",
 				"title" : "Catawba, Virginia: Taught by graduates of the US Air Forces SERE (Survival, Evasion, Resistance, Escape) school and taught year round in the mountains of western Virginia.",
 				"vet"   : "",
@@ -400,8 +414,7 @@
 			{
 				"name"  : "Pitch Perfect Pinyin (Mandarin Chinese)",
 				"link"  : "https://www.laits.utexas.edu/ppp/learning.php?unit=0",
-				"title" : "University of Texas at Austin course on learning Mandarin Chinese and proper pronunciation",
-				"price" : "cost"
+				"title" : "University of Texas at Austin course on learning Mandarin Chinese and proper pronunciation"
 			},
 			{
 				"name"  : "CIA World FactBook",
@@ -525,6 +538,18 @@
 	"other" : {
 		"title" : "other",
 		"links" : [
+			{
+				"name"  : "Spikes K9 Fund",
+				"link"  : "http://www.spikesk9fund.org",
+				"title" : "A non-profit to help current and former service dogs run by former Navy Special Warfare Development Group member and all-around swell guy Senior Chief Petty Officer James Hatch. Disclaimer: I volunteer as the web developer for this site.",
+				"extra"	: "recommended"
+			},
+			{
+				"name"  : "30 Seconds Out",
+				"link"  : "http://www.thirtysecondsout.com",
+				"title" : "Art and clothing company run by a former Navy Special Warfare operator 'Evan'",
+				"extra"	: "recommended"
+			},
 			{
 				"name"  : "Yale X Coursera - Intro to Negotiation",
 				"link"  : "https://www.coursera.org/learn/negotiation",

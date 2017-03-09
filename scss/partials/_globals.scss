@@ -4,6 +4,7 @@ $tan:			#D9CB9E;
 $gray-light:	#374140;
 $gray:			#2A2C2B;
 $gray-dark:		#1E1E20;
+$light-green:	#90b04f;
 
 $white:			#fff;
 
@@ -31,7 +32,10 @@ a {
 		color: $gray-dark;
 	}
 }
-
+.legend {
+	font-size: 0.8rem;
+	margin-bottom: 1rem;
+}
 .subject {
 	background-color: rgba(0,0,0,0.05);
 	margin: 1rem 0;
@@ -51,7 +55,10 @@ a {
 		margin: 0;
 	}
 	.item {
-		// padding: 0.5rem 1rem;
+		position: relative;
+		a, i {
+			font-size: 0.85rem;
+		}
 		.title {
 			margin-bottom: 0;
 		}
@@ -66,10 +73,22 @@ a {
 		&:hover {
 			background-color: rgba(0,0,0,0.1);
 		}
+		.fa {
+			position: absolute;
+			left: 0.5rem;
+			top: 50%;
+			transform: translateY(-50%);
+		}
 	}
 	.description {
 		display: none;
 	}
+}
+.fa-check {
+	color: $tan;
+}
+.fa-usd {
+	color: $light-green;
 }
 footer {
 	height: 6rem;
