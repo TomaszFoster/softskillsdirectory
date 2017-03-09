@@ -36,6 +36,9 @@ a {
 	background-color: rgba(0,0,0,0.05);
 	margin: 1rem 0;
 	text-align: center;
+	.has-description {
+		cursor: pointer;
+	}
 	h3 {
 		padding: 1rem;
 		background-color: $gray-light;
@@ -51,6 +54,10 @@ a {
 		// padding: 0.5rem 1rem;
 		.title {
 			margin-bottom: 0;
+		}
+		.author {
+			font-size: 0.8rem;
+			line-height: 0.8rem;
 		}
 		transition: background-color 300ms;
 		&:nth-child(odd) {

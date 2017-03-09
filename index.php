@@ -2,8 +2,6 @@
 <?php 
 	$str = file_get_contents('data.json'); 
 	$data = json_decode($str,true);
-	// array_multisort($data);
-	// print_r($data);
 ?>
 
   	<div class="container">
@@ -31,7 +29,7 @@
 	  				
 	  				<div class="subject">
 	  					
-	  					<h3>
+	  					<h3 <?php echo $c['alt']!=null ? 'title="' . $c['alt'] . '" class="has-description"' : '' ; ?>>
 
 	  						<?php echo $c['title']; ?>
 
@@ -45,7 +43,10 @@
 
 		  							<a href="<?php echo $item['link']; ?>" target="_blank" title="<?php echo $item['title'];?>" class="has-title">
 
-					  					<?php echo $item['name']; ?>
+					  					<?php 
+					  						echo $item['name']; 
+					  						echo $item['author']!=NULL ? '  <span class="author"> by '.$item['author'].'</span>' : '';
+					  					?>
 
 					  				</a>
 

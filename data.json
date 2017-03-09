@@ -106,6 +106,7 @@
 	},
 	"nutrition" : {
 		"title" : "nutrition",
+		"alt"	: "Most of the nutrition information I'm including here is either paleo, zone, renassaince, low glycemic, or slow carb. Call it what you want, all of them are great resources if you're looking to build muscle and lose body fat.",
 		"links" : [
 			{
 				"name"  : "CrossFit Zone Meal Plans",
@@ -120,10 +121,20 @@
 				"price" : "cost"
 			},
 			{
+				"name"  : "Marks Daily Apple",
+				"link"  : "http://www.marksdailyapple.com/recipes",
+				"title" : "Although this link is to the recipe section of Marks Daily Apple, the whole website contains a lot of great information."
+			},
+			{
 				"name"  : "The 4 Hour Body",
 				"link"  : "http://amzn.to/2ncsypT",
-				"title" : "This book is hands down what got me really interested in nutrition and fitness. After reading it and slowly applying some of its principles, I lost 37 pounds in 2 months. I'd never been so lean. Everything is based on the 80/20 rule, the maximum amount of benefit for the least amount of work. Highly, highly recommend.",
+				"title" : "This book is hands down what got me really interested in nutrition and fitness. After reading it and slowly applying some of its principles, I lost 37 pounds in 2 months. I'd never been so lean. Everything is based on the 80/20 rule, the maximum amount of benefit for the least amount of work. Highly, highly recommend. The sheer amount of information here is ridiculous. Tim Ferriss really went all out getting it all together.",
 				"price" : "cost"
+			},
+			{
+				"name"  : "A Competitors Zone Prescription",
+				"link"  : "https://www.youtube.com/playlist?list=PL605wGV60elcNeWA3CeXcX2Qrc_pegiCX",
+				"title" : "A small playlist of videos by Matt Chan teaching nutrition to the CrossFit Competitors Course. Really great information"
 			},
 			{
 				"name"  : "Enter the Zone",
@@ -356,6 +367,41 @@
 				"link"  : "http://mdsec.net/wahh/",
 				"title" : "This is absolutely my favorite book on web application security whether you're a novice or an expert in the field, there's so much you can learn. Definitely worth purchasing.",
 				"price" : "cost"
+			}
+		]
+	},
+	"reading" : {
+		"title" : "recommended reading",
+		"links" : [
+			{
+				"name"  	:	"The Trident",
+				"author"	:	"Jason Redman",
+				"link"  	:	"http://amzn.to/2mYW6LX",
+				"title" 	:	"Decorated US Navy SEAL lieutenant Jason Redman served his country courageously and with distinction in Colombia, Peru, Afghanistan, and Iraq, where he commanded mobility and assault forces. He conducted over forty capture/kill missions with his men in Iraq, locating more than 120 al-Qaida insurgents. But his journey was not without supreme challenges—both emotional and physical. Redman is brutally honest about his struggles to learn how to be an effective leader, yet that effort pales beside the story of his critical wounding in 2007 while leading a mission against a key al-Qaida commander. On that mission his team was ambushed and he was struck by machine-gun fire at point-blank range."
+			},
+			{
+				"name" 		:	"Fearless",
+				"author"	:	"Eric Blehm",
+				"link" 		:	"http://amzn.to/2lYNU9i",
+				"title"		:	"Fearless is a vivid account of one man's journey from all-American boy to all-American hero. Blehm's writing takes you beyond the battlefield and right to the heart of the personal battles, sacrifices, and triumphs of one of America's elite warriors. Anyone looking for an inspiring story of inner strength and courage will be richly rewarded by this book."
+			},
+			{
+				"name" 		:	"The Heart and the Fist",
+				"author"	:	"Eric Greitens",
+				"link" 		:	"http://amzn.to/2mjn2CL",
+				"title"		:	"'The education of a humanitarian, the making of a Navy SEAL'. Amazing, amazing read."
+			},
+			{
+				"name" 		:	"On Killing",
+				"author"	:	"Lt. Col. Dave Grossman",
+				"link" 		:	"http://amzn.to/2lZ3vWF",
+				"title"		:	"A controversial psychological examination of how soldiers’ willingness to kill has been encouraged and exploited to the detriment of contemporary civilian society."
+			},
+			{
+				"name" 		:	"Meditations",
+				"author"	:	"Marcus Aurelius",
+				"link" 		:	"http://classics.mit.edu/Antoninus/meditations.html",
+				"title"		:	"Meditations is a series of personal writings by Marcus Aurelius, Roman Emperor from 161 to 180 AD, recording his private notes to himself and ideas on Stoic philosophy."
 			}
 		]
 	},

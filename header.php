@@ -1,3 +1,11 @@
+<?php
+  // force HTTPS with php instead of an .htaccess file because I'm lazy
+  if(empty($_SERVER["HTTPS"])) { 
+      $newurl = "https://" . $_SERVER["SERVER_NAME"] . $_SERVER["REQUEST_URI"]; 
+      header("Location: $newurl"); 
+      exit(); 
+} 
+?>
 <!DOCTYPE html>
 <html>
 <head>
