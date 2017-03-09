@@ -223,6 +223,12 @@
 				"price"	: "cost"
 			},
 			{
+				"name"	: "Courses of Action",
+				"link"	: "https://www.courses-of-action.com/",
+				"title"	: "Carbine, Pistol, Small Unit Tactics. Taught by former SOF members.",
+				"price" : "cost"
+			},
+			{
 				"name"  : "Academi",
 				"link"  : "https://www.academi.com/pages/training/courses",
 				"title" : "Individual course offerings open to MIL/LEO and civilians. Courses include armory, handgun, executive protection, high risk security, tactical swat medical, open driving, and others.",
