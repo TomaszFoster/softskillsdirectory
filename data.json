@@ -123,6 +123,12 @@
 				"name"  : "Juggernaut Training Systems",
 				"link"  : "http://www.jtsstrength.com/",
 				"title" : "Videos and articles from some amazing weightlifting and powerlifting coaches"
+			},
+			{
+				"name"  : "Starting Strength",
+				"link"  : "http://amzn.to/2mo9plM",
+				"title" : "Starting Strength has been called the best and most useful of fitness books. The second edition, Starting Strength: Basic Barbell Training, has sold over 80,000 copies in a competitive global market for fitness education. Along with Practical Programming for Strength Training 2nd Edition, they form a simple, logical, and practical approach to strength training. Now, after four more years of testing and adjustment with thousands of athletes in seminars all over the country, this third edition expands and improves on the previous teaching methods and biomechanical analysis. No other book on barbell training ever written provides the detailed instruction on every aspect of the basic barbell exercises found in SS:BBT3. And while the methods for implementing barbell training detailed in the book are primarily aimed at young athletes, they have been successfully applied to everyone: young and old, male and female, fit and flabby, sick and healthy, weak and already strong. Many people all over the world have used the simple biological principle of stress/recovery/adaptation on which this method is based to improve their performance, their appearance, and their quality of life. SS:BBT3 is your complete guide to developing strength -- the foundation of athletic performance and the key to long-term health.",
+				"type"	: "book"
 			}
 		]
 	},
@@ -247,6 +253,17 @@
 				"link"	: "https://www.outdoorlifeu.com/",
 				"title"	: "I never thought there would be online courses for hunting, fishing, kayaking, etc. What a time to be alive.",
 				"price"	: "cost"
+			},
+			{
+				"name"  : "The Meat Eater (site)",
+				"link"  : "http://www.themeateater.com/",
+				"title" : "Free podcasts, recipes, videos, and other information for hunting game, cooking, field dressing, etc."
+			},
+			{
+				"name"  : "The Meat Eater (show)",
+				"link"  : "http://meateater.vhx.tv/",
+				"title" : "Awesome show on Netflix",
+				"type"	: "show"
 			}
 		]
 	},
@@ -532,6 +549,31 @@
 				"author"	:	"Marcus Aurelius",
 				"link" 		:	"http://classics.mit.edu/Antoninus/meditations.html",
 				"title"		:	"Meditations is a series of personal writings by Marcus Aurelius, Roman Emperor from 161 to 180 AD, recording his private notes to himself and ideas on Stoic philosophy."
+			},
+			{
+				"name"  : "Gates of Fire",
+				"link"  : "http://amzn.to/2mLROXu",
+				"title" : "At Thermopylae, a rocky mountain pass in northern Greece, the feared and admired Spartan soldiers stood three hundred strong. Theirs was a suicide mission, to hold the pass against the invading millions of the mighty Persian army."
+			},
+			{
+				"name"  : "Gentle Propositions",
+				"link"  : "http://amzn.to/2m4wIzo",
+				"title" : "Nearly a decade in the making, Gentle Propositions is a Vietnam War odyssey as experienced through the eyes of a young Special Forces soldier who volunteers to run recon with MACV-SOG out of Command and Control Central (CCC) at the beginning of 1969. This novel is a work of historical-fiction which includes a unique blend of both imaginary characters and real people who take part in both real and fictional events in time. Foreword by Lynne M. Black Jr."
+			},
+			{
+				"name"  : "The Mission, The Men, and Me",
+				"link"  : "http://amzn.to/2lINYPd",
+				"title" : "As a commander of Delta Force-the most elite counter-terrorist organization in the world-Pete Blaber took part in some of the most dangerous, controversial, and significant military and political events of our time. Now he takes his intimate knowledge of warfare-and the heart, mind, and spirit it takes to win-and moves his focus from the combat zone to civilian life."
+			},
+			{
+				"name"  : "Relentless Strike",
+				"link"  : "http://amzn.to/2mLUCUw",
+				"title" : "Relentless Strike tells the inside story of Joint Special Operations Command, the secret military organization that during the past decade has revolutionized counterterrorism, seamlessly fusing intelligence and operational skills to conduct missions that hit the headlines, and those that have remained in the shadows-until now. Because JSOC includes the military's most storied special operations units-Delta Force, SEAL Team 6, the 75th Ranger Regiment-as well as America's most secret aviation and intelligence units, this is their story, too."
+			},
+			{
+				"name"  : "Five Years to Freedom",
+				"link"  : "http://amzn.to/2nkdkzm",
+				"title" : "When Green Beret Lieutenant James N. Rowe was captured in 1963 in Vietnam, his life became more than a matter of staying alive. In a Vietcong POW camp, Rowe endured beri-beri, dysentery, and tropical fungus diseases. He suffered grueling psychological and physical torment. He experienced the loneliness and frustration of watching his friends die. And he struggled every day to maintain faith in himself as a soldier and in his country as it appeared to be turning against him. His survival is testimony to the disciplined human spirit. His story is gripping."
 			}
 		]
 	},

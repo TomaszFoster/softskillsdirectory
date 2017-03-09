@@ -14,8 +14,8 @@
   					Hope is not a good plan 
   				</h1>
   				<p class="legend">
-  					Mouse-over any link for a description
-  					| <i class="fa fa-usd" aria-hidden="true"></i> Costs money |
+  					Mouse-over any link for a description&nbsp;&nbsp;
+  					| &nbsp;&nbsp;<i class="fa fa-usd" aria-hidden="true"></i> &nbsp;Costs money&nbsp;&nbsp;| &nbsp;&nbsp;
   					<i class="fa fa-check" aria-hidden="true"></i> Highly Recommended
   				</p>
 
