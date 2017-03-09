@@ -514,6 +514,11 @@
 				"name"  : "Hacksplaining",
 				"link"  : "https://www.youtube.com/channel/UCOibgcOTyaRNjq__8ds2SxA/videos?sort=dd&view=0&shelf_id=0",
 				"title" : "Great videos that break down computer security into easy to understand terms. Beginners and advanced users alike will benefit."
+			},
+			{
+				"name"  : "Pen Testing Tools Cheat Sheet",
+				"link"  : "https://highon.coffee/blog/penetration-testing-tools-cheat-sheet",
+				"title" : "The focus of this cheat sheet is infrastructure / network penetration testing, web application penetration testing is not covered here apart from a few sqlmap commands at the end and some web server enumeration."
 			}
 		]
 	},
