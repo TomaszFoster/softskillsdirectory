@@ -4,7 +4,7 @@
 	    		"The chains of habit are too light to be felt until they're too heavy to be broken." - Warren Buffet
 	    	</p>
 	    	<p>
-	    		Questions? Want a resource added? Let me know
+	    		Questions? Comments? <a class="email" href="mailto:tomaszfoster@gmail.com">tomaszfoster@gmail.com</a>
 	    	</p>
 	    </footer>
 

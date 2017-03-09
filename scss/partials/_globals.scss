@@ -79,6 +79,17 @@ footer {
 	p {
 		color: $tan;
 		line-height: 2rem;
+		&:first-child {
+			padding-top: 0.75rem;
+			margin-bottom: 0.25rem;
+		}
+		&:last-child {
+			margin-bottom: 0;
+		}
+		.email {
+			color: $tan;
+			display: inline;
+		}
 	}
 }
 .grid {
@@ -96,5 +107,21 @@ footer {
 	    	width: 100%;
 	    	margin: 0 0 0.5rem;
 	    }
+	}
+}
+
+@media #{$small-only} {
+	h1 {
+		font-size: 1.5rem;
+	}
+	footer {
+		height: 8rem;
+		p {
+			font-size: 0.75rem;
+			line-height: 1.25rem;
+			&:first-child {
+				padding-top: 1rem;
+			}
+		}
 	}
 }

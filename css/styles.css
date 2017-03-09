@@ -8383,21 +8383,47 @@ footer {
   footer p {
     color: #D9CB9E;
     line-height: 2rem; }
+    /* line 82, scss/partials/_globals.scss */
+    footer p:first-child {
+      padding-top: 0.75rem;
+      margin-bottom: 0.25rem; }
+    /* line 86, scss/partials/_globals.scss */
+    footer p:last-child {
+      margin-bottom: 0; }
+    /* line 89, scss/partials/_globals.scss */
+    footer p .email {
+      color: #D9CB9E;
+      display: inline; }
 
-/* line 85, scss/partials/_globals.scss */
+/* line 96, scss/partials/_globals.scss */
 .grid .grid-item {
   float: left;
   margin: 0 1% 1rem; }
   @media only screen and (min-width: 64.0625em) {
-    /* line 85, scss/partials/_globals.scss */
+    /* line 96, scss/partials/_globals.scss */
     .grid .grid-item {
       width: 30%; } }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-    /* line 85, scss/partials/_globals.scss */
+    /* line 96, scss/partials/_globals.scss */
     .grid .grid-item {
       width: 46%; } }
   @media only screen and (max-width: 40em) {
-    /* line 85, scss/partials/_globals.scss */
+    /* line 96, scss/partials/_globals.scss */
     .grid .grid-item {
       width: 100%;
       margin: 0 0 0.5rem; } }
+
+@media only screen and (max-width: 40em) {
+  /* line 114, scss/partials/_globals.scss */
+  h1 {
+    font-size: 1.5rem; }
+  /* line 117, scss/partials/_globals.scss */
+  footer {
+    height: 8rem; }
+    /* line 119, scss/partials/_globals.scss */
+    footer p {
+      font-size: 0.75rem;
+      line-height: 1.25rem; }
+      /* line 122, scss/partials/_globals.scss */
+      footer p:first-child {
+        padding-top: 1rem; } }
