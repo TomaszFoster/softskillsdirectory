@@ -326,6 +326,11 @@
 				"name"  : "NASA",
 				"link"  : "https://www.nasa.gov/connect/ebooks/index.html",
 				"title" : "NASA eBooks"
+			},
+			{
+				"name"  : "DoD Resources",
+				"link"  : "https://www.defense.gov/Resources",
+				"title" : "Defense.gov resoureces. A lot of great questions answered."
 			}
 		]
 	},
