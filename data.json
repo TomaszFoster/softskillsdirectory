@@ -236,18 +236,23 @@
 			}
 		]
 	},
-	"tracking" : {
+	"hiking"	: {
+		"title"	: "hiking",
+		"links"	: [
+			{
+				"name"  : "Hiking Upward",
+				"link"  : "https://www.hikingupward.com/",
+				"title" : "A resource for hikers mostly in the Mid Atlantic region. Great reviews of trails in the area."
+			}
+		]
+	},
+	"tracking" 	: {
 		"title" : "survival / bushcraft",
 		"links" : [
 			{
 				"name" 	: "Norwegian Bushcraft",
 				"link"	: "https://www.youtube.com/user/NorwegianBushcraft",
 				"title"	: "A YouTube channel from Norway that goes into bushcraft, survival, and wilderness skills. Some great videos on here and it's a free resource."
-			},
-			{
-				"name"  : "Hiking Upward",
-				"link"  : "https://www.hikingupward.com/",
-				"title" : "A resource for hikers mostly in the Mid Atlantic region. Great reviews of trails in the area."
 			},
 			{
 				"name"  : "Tom Brown Jr's Tracker School",
