@@ -479,6 +479,11 @@
 				"link"  : "http://mdsec.net/wahh/",
 				"title" : "This is absolutely my favorite book on web application security whether you're a novice or an expert in the field, there's so much you can learn. Definitely worth purchasing.",
 				"price" : "cost"
+			},
+			{
+				"name"  : "Hacksplaining",
+				"link"  : "https://www.youtube.com/channel/UCOibgcOTyaRNjq__8ds2SxA/videos?sort=dd&view=0&shelf_id=0",
+				"title" : "Great videos that break down computer security into easy to understand terms. Beginners and advanced users alike will benefit."
 			}
 		]
 	},
