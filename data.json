@@ -59,6 +59,11 @@
 				"link"  : "http://darkangelmedical.com/training/",
 				"title" : "IFAKs and Direct Action Response Training",
 				"price" : "cost"
+			},
+			{
+				"name" 	: "Academi: Tactical SWAT Medical",
+				"link"	: "https://www.academi.com/training-courses/course-title/tactical-swat-medical-course/overview",
+				"title"	: "2 and 5 Day Tactical SWAT Medical Courses taught by Academi. Open to civilians."
 			}
 		]
 	},
@@ -101,6 +106,22 @@
 				"link"  : "http://www.beastskills.com",
 				"title" : "A self taught gymnast named Jim provides a wealth of free information on bodyweight training. Swell guy, did a gymanstic workshop with him outside of Washington DC for next to nothing. Highly recommend his 1 day seminars.",
 				"price" : "cost"
+			},
+			{
+				"name"  : "Pose Method - Dr. Romanov",
+				"link"  : "https://posemethod.com/",
+				"title" : "Let's face it: running is a skill that hardly anyone works on. Dr. Nicholas Romanov teaches the pose method of running and discusses biomechanics, form, injury prevention, and can make you a faster, stronger runner. Definitely a wealth of information here that you should check out.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Complete Human Performance",
+				"link"  : "https://www.completehumanperformance.com/",
+				"title" : "Alex Viada has a 700lb deadlift and runs a 4:15 mile. He competes in powerlifting and ultra-endurance running and triathalons. We can learn a LOT from this guy and his book, the Hybrid Athlete, really gets into the nitty-gritty of metabolism, recovery, muscle growth, and optimizing training schedules."
+			},
+			{
+				"name"  : "Juggernaut Training Systems",
+				"link"  : "http://www.jtsstrength.com/",
+				"title" : "Videos and articles from some amazing weightlifting and powerlifting coaches"
 			}
 		]
 	},
@@ -141,6 +162,77 @@
 				"link"  : "http://amzn.to/2mhfuAu",
 				"title" : "Not necessary but if you're trying to eat zone, whether it's paleo or not, Dr. Barry Sears had the original idea behind it. Pretty simple stuff, don't spike your blood sugar but don't let it fall either, stay in the zone.",
 				"price" : "cost"
+			}
+		]
+	},
+	"combatives" : {
+		"title" : "combatives",
+		"alt"	: "These are combatives, not martial arts in the strictest sense. Combatives in this guide are confined to self defense for armed and unarmed combat. There's plenty of overlap but we're focusing on practicality for a street fight so you can go home at the end of the day. Besides, Martial Arts gyms are so regional specific that it's difficult to include them all here in one list. Maybe down the road. Until then, find a local Jiu-Jitsu or Krav Maga school and start training.",
+		"links" : [
+			{
+				"name"  : "Dynamis Alliance",
+				"link"  : "https://dynamisalliance.com/",
+				"title" : "Dom Raso, a former SEAL team member, teaches unarmed, blade and impact weapon tactics, weapons manipulation, low vis tactics, and cqb."
+			},
+			{
+				"name"  : "Tony Blauer's SPEAR",
+				"link"  : "https://blauerspear.com/",
+				"title" : "Instinctual self defense playing off the bodies natural survival response."
+			},
+			{
+				"name"  : "Gracie Jiu-Jitsu / Survival Tactics",
+				"link"  : "http://www.gracieacademy.com/gst.asp",
+				"title" : "Yeah yeah, I said no martial arts but Gracie Jiu-Jitsu is standardized across the country and they offer Survival Tactics courses for Military and Law Enforcement. Everything up through Blue Belt is based on 36 of the most common takedowns, chokes, holds, and other movement patterns. The basics are the basics are the basics."
+			},
+			{
+				"name"  : "CrossFit Striking",
+				"link"  : "https://training.crossfit.com/striking",
+				"title" : "Great course that teaches the proper mechanics of different strikes (straight, hoook, uppercut, knee, ground striking, etc. No sparring in this course, just proper mechanics, conditioning, shadow boxing, and padwork. Taught by a Martial Arts Masters Hall of Fame inductee for Boxing and LAPD Swat member George Ryan."
+			}
+		]
+	},
+	"shooting" : {
+		"title" : "shooting",
+		"links" : [
+			{
+				"name"  : "Appleseed Project",
+				"link"  : "https://appleseedinfo.org/",
+				"title" : "They 'promote civic responsibility through the teaching of colonial history and the American tradition of rifle marksmanship'. Beginners and experienced shooters will benefit from this course and costs are typically very low and have offerings in every state."
+			},
+			{
+				"name"  : "SOFLETE Shooting",
+				"link"  : "https://soflete.com/products/soflete-shooting",
+				"title" : "The range is one thing, but how well would you shoot if things really went down? With The Soflete Shooters Program, it’s easy to learn professional techniques that will help get you ready for any situation. Built using the latest tactics from special operations and competitive shooters, you’ll use live and dry fire drills to develop your skills under real-world stress conditions. Giving you all the tools you need, to take your shot to the next level."
+			},
+			{
+				"name"  : "Academi",
+				"link"  : "https://www.academi.com/pages/training/courses",
+				"title" : "Individual course offerings open to MIL/LEO and civilians. Courses include armory, handgun, executive protection, high risk security, tactical swat medical, open driving, and others."
+			},
+			{
+				"name" 	: "Outdoor Life: Long Range Rifle",
+				"link" 	: "http://www.outdoorlife.com/photos/gallery/guns/rifles/2011/08/sniper-school-precision-long-range-shooting",
+				"title"	: "Great article on long range rifle hunting and proper setup. Dry fire is your friend."
+			},
+			{
+				"name"  : "Brian Enos",
+				"link"  : "http://brianenos.com",
+				"title" : "Want to shoot competitively in 3-Gun? Not sure what gear to use? Want help with your kit? Sign up for the forum and start reading through it. Seriously."
+			}
+		]
+	},
+	"hunting" : {
+		"title" : "hunting",
+		"links" : [
+			{
+				"name" 	: "Outdoor Life",
+				"link"	: "http://www.outdoorlife.com/",
+				"title"	: "Huge list of articles, videos, forums, etc on hunting, fishing, gear, guns, survival."
+			},
+			{
+				"name"	: "Outdoor Life University",
+				"link"	: "https://www.outdoorlifeu.com/",
+				"title"	: "I never thought there would be online courses for hunting, fishing, kayaking, etc. What a time to be alive."
 			}
 		]
 	},
