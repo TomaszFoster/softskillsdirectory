@@ -25,3 +25,5 @@
   </head>
 
   <body class="background">
+
+  <?php include_once("analyticstracking.php") ?>
