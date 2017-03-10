@@ -1,73 +1,4 @@
 {
-	"medical" : {
-		"title" : "medical",
-		"links" : [
-			{
-				"name"  : "SOF Medical Handbook",
-				"link"  : "http://www.green-trust.org/freebooks/SOF_Medical_Handbook.pdf",
-				"title" : "The Special Operations Forces Medical Handbook, a great resource for emergency medicine. Note: a lot of this flies in the face of current medical practice and what is legal in the US, but in an emergency situation or when operating OCONUS, something in here could save your life. This is a downloadable pdf of the 1st Edition June 2001",
-				"type"	: "pdf"
-			},
-			{
-				"name"  : "Stanford Courses on video",
-				"link"  : "http://itunes.stanford.edu/",
-				"title" : "Although many other resources besides health and medicine, Stanford has the best medical school in the country and most of the courses are available to view for free on iTunes under Health &amp; Fitness"
-			},
-			{
-				"name"  : "EdX - Health &amp; Safety",
-				"link"  : "https://www.edx.org/course/subject/health-safety",
-				"title" : "A variety of free to access lectures through many partner schools including Harvard, Berkeley, Michigan State and others. No hands on component obviously but if you're studying for a medical exam or otherwise, this can come in handy. Explore their other course subjects as well."
-			},
-			{
-				"name"  : "NOLS Wilderness Medicine",
-				"link"  : "https://nols.edu/en/courses/wilderness-medicine/",
-				"title" : "NOLS teaches the prevention, assessment, and treatment of injury and illness in remote and austere settings.",
-				"price" : "cost"
-			},
-			{
-				"name"  : "REI Wilderness Medicine",
-				"link"  : "https://www.rei.com/outdoorschool/wilderness-medicine-classes.html",
-				"title" : "REI offers similar courses to NOLS in terms of WFR, WAFA, WEMT, etc",
-				"price" : "cost"
-			},
-			{
-				"name"  : "Wilderness Medical Society",
-				"link"  : "http://www.wms.org/",
-				"title" : "Offers education in Mountain Medicine as well as Dive and Marine Medicine. Supposedly they have online courses becoming available soon.",
-				"price" : "cost"
-			},
-			{
-				"name"  : "Advanced Wilderness Life Support",
-				"link"  : "https://awls.org/",
-				"title" : "Offers Advanced Wilderness Life Support fo current medical professionals as well as Wilderness First Aid, Basic Wilderness Life Support, and online courses.",
-				"price" : "cost"
-			},
-			{
-				"name"  : "Vertical Medicine Resources",
-				"link"  : "http://www.vertical-medicine.com/",
-				"title" : "WFA, WFR, AWLS, First Aid, CPR, etc.",
-				"price" : "cost"
-			},
-			{
-				"name"  : "Wilderness Medical Associates",
-				"link"  : "https://www.wildmed.com/wilderness-medical-courses/",
-				"title" : "Same offerings as some other schools but also some specialty courses like Conflict &amp; Remote First Aid, Battlefield Medical Response, Offshore Emergency Medicine, and others.",
-				"price" : "cost"
-			},
-			{
-				"name"  : "Dark Angel Medical",
-				"link"  : "http://darkangelmedical.com/training/",
-				"title" : "IFAKs and Direct Action Response Training",
-				"price" : "cost"
-			},
-			{
-				"name" 	: "Academi: Tactical SWAT Medical",
-				"link"	: "https://www.academi.com/training-courses/course-title/tactical-swat-medical-course/overview",
-				"title"	: "2 and 5 Day Tactical SWAT Medical Courses taught by Academi. Open to civilians.",
-				"price"	: "cost"
-			}
-		]
-	},
 	"fitness" : {
 		"title" : "fitness",
 		"links" : [
@@ -174,6 +105,75 @@
 				"name"	: "BioLayne",
 				"link"	: "https://www.biolayne.com/",
 				"title"	: "Nutrition information from a Layne Norton - Bodybuilding, Coaching, PhD. So much information."
+			}
+		]
+	},
+	"medical" : {
+		"title" : "medical",
+		"links" : [
+			{
+				"name"  : "SOF Medical Handbook",
+				"link"  : "http://www.green-trust.org/freebooks/SOF_Medical_Handbook.pdf",
+				"title" : "The Special Operations Forces Medical Handbook, a great resource for emergency medicine. Note: a lot of this flies in the face of current medical practice and what is legal in the US, but in an emergency situation or when operating OCONUS, something in here could save your life. This is a downloadable pdf of the 1st Edition June 2001",
+				"type"	: "pdf"
+			},
+			{
+				"name"  : "Stanford Courses on video",
+				"link"  : "http://itunes.stanford.edu/",
+				"title" : "Although many other resources besides health and medicine, Stanford has the best medical school in the country and most of the courses are available to view for free on iTunes under Health &amp; Fitness"
+			},
+			{
+				"name"  : "EdX - Health &amp; Safety",
+				"link"  : "https://www.edx.org/course/subject/health-safety",
+				"title" : "A variety of free to access lectures through many partner schools including Harvard, Berkeley, Michigan State and others. No hands on component obviously but if you're studying for a medical exam or otherwise, this can come in handy. Explore their other course subjects as well."
+			},
+			{
+				"name"  : "NOLS Wilderness Medicine",
+				"link"  : "https://nols.edu/en/courses/wilderness-medicine/",
+				"title" : "NOLS teaches the prevention, assessment, and treatment of injury and illness in remote and austere settings.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "REI Wilderness Medicine",
+				"link"  : "https://www.rei.com/outdoorschool/wilderness-medicine-classes.html",
+				"title" : "REI offers similar courses to NOLS in terms of WFR, WAFA, WEMT, etc",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Wilderness Medical Society",
+				"link"  : "http://www.wms.org/",
+				"title" : "Offers education in Mountain Medicine as well as Dive and Marine Medicine. Supposedly they have online courses becoming available soon.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Advanced Wilderness Life Support",
+				"link"  : "https://awls.org/",
+				"title" : "Offers Advanced Wilderness Life Support fo current medical professionals as well as Wilderness First Aid, Basic Wilderness Life Support, and online courses.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Vertical Medicine Resources",
+				"link"  : "http://www.vertical-medicine.com/",
+				"title" : "WFA, WFR, AWLS, First Aid, CPR, etc.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Wilderness Medical Associates",
+				"link"  : "https://www.wildmed.com/wilderness-medical-courses/",
+				"title" : "Same offerings as some other schools but also some specialty courses like Conflict &amp; Remote First Aid, Battlefield Medical Response, Offshore Emergency Medicine, and others.",
+				"price" : "cost"
+			},
+			{
+				"name"  : "Dark Angel Medical",
+				"link"  : "http://darkangelmedical.com/training/",
+				"title" : "IFAKs and Direct Action Response Training",
+				"price" : "cost"
+			},
+			{
+				"name" 	: "Academi: Tactical SWAT Medical",
+				"link"	: "https://www.academi.com/training-courses/course-title/tactical-swat-medical-course/overview",
+				"title"	: "2 and 5 Day Tactical SWAT Medical Courses taught by Academi. Open to civilians.",
+				"price"	: "cost"
 			}
 		]
 	},
