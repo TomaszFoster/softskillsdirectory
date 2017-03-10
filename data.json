@@ -10,12 +10,14 @@
 			{
 				"name"  : "Catalyst Athletics",
 				"link"  : "https://www.catalystathletics.com",
-				"title" : "These guys have been around forever. Not sure how to perform a movement properly? They have a vast resource of videos on proper technique for every movement. Amazing resource."
+				"title" : "These guys have been around forever. Not sure how to perform a movement properly? They have a vast resource of videos on proper technique for every movement. Amazing resource.",
+				"extra"	: "recommended"
 			},
 			{
 				"name"  : "Built by Bergeron",
 				"link"  : "https://www.builtbybergeron.com/comptrain-programming/",
-				"title" : "Ben Bergeron has coached 5 different CrossFit Games champions. His daily competitive programming is available online for free. Trying to go to Regionals? This is a great place to start."
+				"title" : "Ben Bergeron has coached 5 different CrossFit Games champions. His daily competitive programming is available online for free. Trying to go to Regionals? This is a great place to start.",
+				"extra"	: "recommended"
 			},
 			{
 				"name"  : "SOFLETE",
@@ -115,7 +117,8 @@
 				"name"  : "SOF Medical Handbook",
 				"link"  : "http://www.green-trust.org/freebooks/SOF_Medical_Handbook.pdf",
 				"title" : "The Special Operations Forces Medical Handbook, a great resource for emergency medicine. Note: a lot of this flies in the face of current medical practice and what is legal in the US, but in an emergency situation or when operating OCONUS, something in here could save your life. This is a downloadable pdf of the 1st Edition June 2001",
-				"type"	: "pdf"
+				"type"	: "pdf",
+				"extra"	: "recommended"
 			},
 			{
 				"name"  : "Stanford Courses on video",
@@ -268,8 +271,9 @@
 			{
 				"name"  : "The Meat Eater (show)",
 				"link"  : "http://meateater.vhx.tv/",
-				"title" : "Awesome show on Netflix",
-				"type"	: "show"
+				"title" : "Awesome show online and I believe seaons 5 and 6 are on Netflix still.",
+				"type"	: "show",
+				"extra"	: "recommended"
 			}
 		]
 	},
@@ -396,7 +400,8 @@
 				"name"  : "DuoLingo",
 				"link"  : "http://www.duolingo.com/",
 				"title" : "A very comprehensive resource with a large variety of offerings.",
-				"price" : "free"
+				"price" : "free",
+				"extra"	: "recommended"
 			},
 			{
 				"name"  : "Memrise",
