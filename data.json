@@ -107,6 +107,12 @@
 				"name"	: "BioLayne",
 				"link"	: "https://www.biolayne.com/",
 				"title"	: "Nutrition information from a Layne Norton - Bodybuilding, Coaching, PhD. So much information."
+			},
+			{
+				"name"	: "Renaissance Periodization",
+				"link"	: "https://renaissanceperiodization.com/",
+				"title"	: "Official dieticians of USA Weightlifting. This method seem to be increasingly popular lately and their results speak for themselves.",
+				"price" : "cost"
 			}
 		]
 	},
