@@ -116,6 +116,32 @@
 			}
 		]
 	},
+	"podcats" : {
+		"title" : "podcasts",
+		"links" : [
+			{
+				"name"  : "Ben Bergeron - Chasing Excellence",
+				"link"  : "https://www.builtbybergeron.com/chasing-excellence",
+				"title" : "Ben Bergeron runs CrossFit New England and has trained numerous games athletes, includin Katrín Davíðsdóttir and Mat Fraser. His podcasts range from coaching to competeting to mindfulness and personal development. Outstanding content, highly highly recommend.",
+				"extra"	: "recommended"
+			},
+			{
+				"name"  : "Dan Carlins Hardcore History",
+				"link"  : "http://www.dancarlin.com/",
+				"title" : "These are LONG podcasts, with each episode broken up into parts and totalling several hours. That being said, they are awesome. Dan Carlin really brings to life each historical segment and devles really deep into the political, racial tensions, the power struggles, etc. He really sets the scene and delivers a very powerful podcast for all you history fans."
+			},
+			{
+				"name"  : "Jocko Podcast",
+				"link"  : "http://jockopodcast2.com/",
+				"title" : "JOCKO WILLINK is a decorated retired Navy SEAL officer, author of the book Extreme Ownership: How U.S. Navy SEALs Lead and Win, and co-founder of Echelon Front, where he is a leadership instructor, speaker, and executive coach. Jocko spent 20 years in the U.S. Navy SEAL Teams, starting as an enlisted SEAL and rising through the ranks to become a SEAL officer. As commander of SEAL Team Three’s Task Unit Bruiser during the battle of Ramadi, he orchestrated SEAL operations that helped the “Ready First” Brigade of the US Army’s First Armored Division bring stability to the violent, war-torn city.Task Unit Bruiser became the most highly decorated Special Operations Unit of the Iraq War. Jocko returned from Iraq to serve as Officer-in-Charge of training for all West Coast SEAL Teams. There, he spearheaded the development of leadership training and personally instructed and mentored the next generation of SEAL leaders who have continued to perform with great success on the battlefield."
+			},
+			{
+				"name"  : "The Mind Muscle Project",
+				"link"  : "http://themindmuscleproject.com/",
+				"title" : "With a focus on CrossFit, weightlifting, football, bodybuilding, and strongman, this podcast touches on a lot of topics like training, nutrition, emotional intelligence, and the like. Interviews with top Games athletes and football coaches and the like."
+			}
+		]
+	},
 	"medical" : {
 		"title" : "medical",
 		"links" : [
