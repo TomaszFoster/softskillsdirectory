@@ -15,8 +15,8 @@
   				</h1>
   				<p class="legend">
   					Mouse-over any link for a description&nbsp;&nbsp;
-  					| &nbsp;&nbsp;<i class="fa fa-usd" aria-hidden="true"></i> &nbsp;Costs money&nbsp;&nbsp;| &nbsp;&nbsp;
-  					<i class="fa fa-check" aria-hidden="true"></i> Highly Recommended
+  					| &nbsp;&nbsp;<i class="fa fa-usd" aria-hidden="true"></i> &nbsp;Paid content&nbsp;&nbsp;| &nbsp;&nbsp;
+  					<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Highly Recommended
   				</p>
 
   			</div>

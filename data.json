@@ -139,6 +139,22 @@
 				"name"  : "The Mind Muscle Project",
 				"link"  : "http://themindmuscleproject.com/",
 				"title" : "With a focus on CrossFit, weightlifting, football, bodybuilding, and strongman, this podcast touches on a lot of topics like training, nutrition, emotional intelligence, and the like. Interviews with top Games athletes and football coaches and the like."
+			},
+			{
+				"name"  : "StarTalk",
+				"link"  : "https://www.startalkradio.net/",
+				"title" : "Hosted by Dr. Neil deGrasse Tyson with various special guests and comedians, the show explores science, science fiction, astrophyics, sex, life, and humor.",
+				"extra"	: "recommended"
+			},
+			{
+				"name"  : "The Joe Rogan Experience",
+				"link"  : "http://podcasts.joerogan.net/",
+				"title" : "The Joe Rogan Experience podcast is a long form conversation hosted by comedian, UFC color commentator, and actor Joe Rogan with friends and guests that have included comedians, actors, musicians, MMA instructors and commentators, authors, artists, and porn stars."
+			},
+			{
+				"name"  : "TED Radio Hour",
+				"link"  : "http://www.npr.org/programs/ted-radio-hour/",
+				"title" : "A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds."
 			}
 		]
 	},
