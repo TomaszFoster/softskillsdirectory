@@ -332,6 +332,11 @@
 				"name"  : "Hiking Upward",
 				"link"  : "https://www.hikingupward.com/",
 				"title" : "A resource for hikers mostly in the Mid Atlantic region. Great reviews of trails in the area."
+			},
+			{
+				"name"  : "USGS Topographical Maps",
+				"link"  : "http://www.natgeomaps.com/trail-maps/pdf-quads",
+				"title" : "National Geographic website with free resource to print USGS topgraphical maps for any area."
 			}
 		]
 	},
