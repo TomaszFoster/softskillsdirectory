@@ -666,6 +666,11 @@
 				"link"  : "https://www.cia.gov/library/readingroom/docs/CIA-RDP89G00720R000800040003-6.pdf",
 				"title" : "Random can be fun.",
 				"type"	: "pdf"
+			},
+			{
+				"name"  : "MIT Lockpicking Guide",
+				"link"  : "http://www.blurofinsanity.com/mit/lockpick.html",
+				"title" : "The Document Which Used To Be Called The MIT Lockpicking Guide"
 			}
 		]
 	}
