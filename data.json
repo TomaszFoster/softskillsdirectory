@@ -598,6 +598,11 @@
 				"name"  : "Intro to SDR and RF",
 				"link"  : "https://www.elttam.com.au/blog/intro-sdr-and-rf-analysis/",
 				"title" : "An entry point into learning more about Software Define Radio as well as Radio Frequency Signal Analysis."
+			},
+			{
+				"name"  : "EFF Tools",
+				"link"  : "https://www.eff.org/pages/tools",
+				"title" : "Tools used and promoted by the Electronic Frontier Foundation. '[...] solutions to the problems of sneaky tracking, inconsistent encryption, and more. Where users face threats to their privacy and security online, EFF’s technology tools are there to defend them.'"
 			}
 		]
 	},
