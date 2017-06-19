@@ -588,6 +588,16 @@
 				"name"  : "Low Level Programming Univ.",
 				"link"  : "https://github.com/gurugio/lowlevelprogramming-university",
 				"title" : "Great roadmap for becoming a low-level programmer. This skillset is not as common as it once was but remains just as valuable today."
+			},
+			{
+				"name"  : "NSA Open Source Software",
+				"link"  : "https://nationalsecurityagency.github.io/",
+				"title" : "Interesting open source software that the NSA has developed which include secure VPN packages, software to reduce timespan needed for forensic copies of hard drives for forensice analysis, and many more. Very well written code and documentation here"
+			},
+			{
+				"name"  : "Intro to SDR and RF",
+				"link"  : "https://www.elttam.com.au/blog/intro-sdr-and-rf-analysis/",
+				"title" : "An entry point into learning more about Software Define Radio as well as Radio Frequency Signal Analysis."
 			}
 		]
 	},
@@ -681,6 +691,11 @@
 				"name"  : "MIT Lockpicking Guide",
 				"link"  : "http://www.blurofinsanity.com/mit/lockpick.html",
 				"title" : "The Document Which Used To Be Called The MIT Lockpicking Guide"
+			},
+			{
+				"name"  : "Georgia Tech free math textbook collective",
+				"link"  : "http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html",
+				"title" : "Exactly what it sounds like"
 			}
 		]
 	}
