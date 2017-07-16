@@ -163,7 +163,7 @@
 		"links" : [
 			{
 				"name"  : "SOF Medical Handbook",
-				"link"  : "http://www.green-trust.org/freebooks/SOF_Medical_Handbook.pdf",
+				"link"  : "/SOF_Medical_Handbook.pdf",
 				"title" : "The Special Operations Forces Medical Handbook, a great resource for emergency medicine. Note: a lot of this flies in the face of current medical practice and what is legal in the US, but in an emergency situation or when operating OCONUS, something in here could save your life. This is a downloadable pdf of the 1st Edition June 2001",
 				"type"	: "pdf",
 				"extra"	: "recommended"
