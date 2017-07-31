@@ -603,6 +603,16 @@
 				"name"  : "EFF Tools",
 				"link"  : "https://www.eff.org/pages/tools",
 				"title" : "Tools used and promoted by the Electronic Frontier Foundation. '[...] solutions to the problems of sneaky tracking, inconsistent encryption, and more. Where users face threats to their privacy and security online, EFF’s technology tools are there to defend them.'"
+			},
+			{
+				"name"  : "Google Bughunter University",
+				"link"  : "https://sites.google.com/site/bughunteruniversity/",
+				"title" : "A helpful guide to get into penetration testing and vulnerability research. Specifically geared to helping you get paid for vulnerability disclosure"
+			},
+			{
+				"name"  : "Hacker One",
+				"link"  : "https://www.hackerone.com/",
+				"title" : "Probably the most extensive bug bounty program list there is"
 			}
 		]
 	},
