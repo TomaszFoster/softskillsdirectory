@@ -155,6 +155,11 @@
 				"name"  : "TED Radio Hour",
 				"link"  : "http://www.npr.org/programs/ted-radio-hour/",
 				"title" : "A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds."
+			},
+			{
+				"name"  : "FieldCraft Survival Podcast",
+				"link"  : "https://itunes.apple.com/us/podcast/fieldcraft-survival/id1187664795?mt=2",
+				"title" : "'An informative series in survival, tactics, defense, politics, guns, fitness, off-roading, military, and gear. All preparedness and survival from your host and owner of FieldCraft Survival Mike Glover, a former Special Forces sniper.'"
 			}
 		]
 	},
@@ -343,6 +348,12 @@
 	"tracking" 	: {
 		"title" : "survival / bushcraft",
 		"links" : [
+			{
+				"name"  : "FieldCraft Survival",
+				"link"  : "https://www.fieldcraftsurvival.com.com/",
+				"title" : "U.S. SOF approved training and gear",
+				// "price" : "cost"
+			},
 			{
 				"name" 	: "Norwegian Bushcraft",
 				"link"	: "https://www.youtube.com/user/NorwegianBushcraft",
