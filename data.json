@@ -126,6 +126,12 @@
 				"extra"	: "recommended"
 			},
 			{
+				"name"  : "FieldCraft Survival Podcast",
+				"link"  : "https://itunes.apple.com/us/podcast/fieldcraft-survival/id1187664795?mt=2",
+				"title" : "'An informative series in survival, tactics, defense, politics, guns, fitness, off-roading, military, and gear. All preparedness and survival from your host and owner of FieldCraft Survival Mike Glover, a former Special Forces sniper.'",
+				"extra"	: "recommended"
+			},
+			{
 				"name"  : "Dan Carlins Hardcore History",
 				"link"  : "http://www.dancarlin.com/",
 				"title" : "These are LONG podcasts, with each episode broken up into parts and totalling several hours. That being said, they are awesome. Dan Carlin really brings to life each historical segment and devles really deep into the political, racial tensions, the power struggles, etc. He really sets the scene and delivers a very powerful podcast for all you history fans."
@@ -143,8 +149,7 @@
 			{
 				"name"  : "StarTalk",
 				"link"  : "https://www.startalkradio.net/",
-				"title" : "Hosted by Dr. Neil deGrasse Tyson with various special guests and comedians, the show explores science, science fiction, astrophyics, sex, life, and humor.",
-				"extra"	: "recommended"
+				"title" : "Hosted by Dr. Neil deGrasse Tyson with various special guests and comedians, the show explores science, science fiction, astrophyics, sex, life, and humor."
 			},
 			{
 				"name"  : "The Joe Rogan Experience",
@@ -155,11 +160,6 @@
 				"name"  : "TED Radio Hour",
 				"link"  : "http://www.npr.org/programs/ted-radio-hour/",
 				"title" : "A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds."
-			},
-			{
-				"name"  : "FieldCraft Survival Podcast",
-				"link"  : "https://itunes.apple.com/us/podcast/fieldcraft-survival/id1187664795?mt=2",
-				"title" : "'An informative series in survival, tactics, defense, politics, guns, fitness, off-roading, military, and gear. All preparedness and survival from your host and owner of FieldCraft Survival Mike Glover, a former Special Forces sniper.'"
 			}
 		]
 	},
