@@ -132,6 +132,12 @@
 				"extra"	: "recommended"
 			},
 			{
+				"name"  : "SOFLETE - Die Living Podcast",
+				"link"  : "https://itunes.apple.com/us/podcast/soflete/id1238939513?mt=2",
+				"title" : "Great podcast",
+				"extra"	: "recommended"
+			},
+			{
 				"name"  : "Dan Carlins Hardcore History",
 				"link"  : "http://www.dancarlin.com/",
 				"title" : "These are LONG podcasts, with each episode broken up into parts and totalling several hours. That being said, they are awesome. Dan Carlin really brings to life each historical segment and devles really deep into the political, racial tensions, the power struggles, etc. He really sets the scene and delivers a very powerful podcast for all you history fans."
@@ -362,8 +368,13 @@
 		]
 	},
 	"tracking" 	: {
-		"title" : "survival / bushcraft",
+		"title" : "survival / bushcraft ",
 		"links" : [
+			{
+				"name"  : "Alaska Mountaineering School",
+				"link"  : "http://climbalaska.org",
+				"title" : "Alaska based mountaineering, trekking, hiking, packrafting, and backpacking courses"
+			},
 			{
 				"name"  : "FieldCraft Survival",
 				"link"  : "https://www.fieldcraftsurvival.com.com/",
@@ -458,6 +469,11 @@
 				"name"  : "Army Study Guide - Land Nav",
 				"link"  : "http://www.armystudyguide.com/content/army_board_study_guide_topics/land_navigation_map_reading/index.shtml",
 				"title" : "Pretty self explanatory. Free resource that teaches you about land navigation, map and compass reading, and army board study material."
+			},
+			{
+				"name"  : "Army Map Reading and Land Navigation Field Manual",
+				"link"  : "https://fas.org/irp/doddir/army/fm3-25-26.pdf",
+				"title" : "Pretty self explanatory. Official US Army Map Reading and Land Navigation Field Manual"
 			},
 			{
 				"name"  : "Imminent Threat Solutions Land Nav",
