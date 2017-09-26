@@ -28,7 +28,8 @@
 			{
 				"name"  : "Mountain Tactical",
 				"link"  : "http://www.mtntactical.com",
-				"title" : "Amazing programming specifically adapted to the mountain and military athlete. They have in depth studies and you can get a lot of great information from them."
+				"title" : "Amazing programming specifically adapted to the mountain and military athlete. They have in depth studies and you can get a lot of great information from them.",
+				"extra"	: "recommended"
 			},
 			{
 				"name"  : "MisFit Athletics",
@@ -135,6 +136,12 @@
 				"name"  : "SOFLETE - Die Living Podcast",
 				"link"  : "https://itunes.apple.com/us/podcast/soflete/id1238939513?mt=2",
 				"title" : "Great podcast",
+				"extra"	: "recommended"
+			},
+			{
+				"name"  : "STEM Talk",
+				"link"  : "https://www.ihmc.us/stemtalks/",
+				"title" : "Conversations with some of the most interesting people in the world of science and technology",
 				"extra"	: "recommended"
 			},
 			{
@@ -299,6 +306,12 @@
 				"name"	: "Courses of Action",
 				"link"	: "https://www.courses-of-action.com/",
 				"title"	: "Carbine, Pistol, Small Unit Tactics. Taught by former SOF members.",
+				"price" : "cost"
+			},
+			{
+				"name"	: "FieldCraft Survival",
+				"link"	: "https://www.fieldcraftsurvival.com/",
+				"title"	: "Carbine, Pistol, Survival. Taught by former SOF members.",
 				"price" : "cost"
 			},
 			{
@@ -693,6 +706,7 @@
 			},
 			{
 				"name"  : "Gates of Fire",
+				"author" : "Steven Pressfield",
 				"link"  : "http://amzn.to/2mLROXu",
 				"title" : "At Thermopylae, a rocky mountain pass in northern Greece, the feared and admired Spartan soldiers stood three hundred strong. Theirs was a suicide mission, to hold the pass against the invading millions of the mighty Persian army."
 			},
