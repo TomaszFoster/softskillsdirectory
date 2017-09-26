@@ -466,6 +466,11 @@
 				"title" : "Jackson, Ohio: Bushcraft, camping, trapping, survival, blacksmithing, woodcrafting, wilderness first aid, medicinal plant seminars, archery, fishing and other courses as well as a ",
 				"vet"   : "",
 				"price" : "cost"
+			},
+			{
+				"name"  : "FEMA",
+				"link"  : "http://training.fema.gov/",
+				"title" : "Yeah, that FEMA. They provide hundreds of courses in emergency management and a lot of them can count as college credit. Great information provided."
 			}
 		]
 	},
@@ -705,30 +710,30 @@
 				"title"		:	"Meditations is a series of personal writings by Marcus Aurelius, Roman Emperor from 161 to 180 AD, recording his private notes to himself and ideas on Stoic philosophy."
 			},
 			{
-				"name"  : "Gates of Fire",
-				"author" : "Steven Pressfield",
-				"link"  : "http://amzn.to/2mLROXu",
-				"title" : "At Thermopylae, a rocky mountain pass in northern Greece, the feared and admired Spartan soldiers stood three hundred strong. Theirs was a suicide mission, to hold the pass against the invading millions of the mighty Persian army."
+				"name"  	: 	"Gates of Fire",
+				"author" 	: 	"Steven Pressfield",
+				"link"  	: 	"http://amzn.to/2mLROXu",
+				"title" 	: 	"At Thermopylae, a rocky mountain pass in northern Greece, the feared and admired Spartan soldiers stood three hundred strong. Theirs was a suicide mission, to hold the pass against the invading millions of the mighty Persian army."
 			},
 			{
-				"name"  : "Gentle Propositions",
-				"link"  : "http://amzn.to/2m4wIzo",
-				"title" : "Nearly a decade in the making, Gentle Propositions is a Vietnam War odyssey as experienced through the eyes of a young Special Forces soldier who volunteers to run recon with MACV-SOG out of Command and Control Central (CCC) at the beginning of 1969. This novel is a work of historical-fiction which includes a unique blend of both imaginary characters and real people who take part in both real and fictional events in time. Foreword by Lynne M. Black Jr."
+				"name"  	: 	"Gentle Propositions",
+				"link"  	: 	"http://amzn.to/2m4wIzo",
+				"title" 	: 	"Nearly a decade in the making, Gentle Propositions is a Vietnam War odyssey as experienced through the eyes of a young Special Forces soldier who volunteers to run recon with MACV-SOG out of Command and Control Central (CCC) at the beginning of 1969. This novel is a work of historical-fiction which includes a unique blend of both imaginary characters and real people who take part in both real and fictional events in time. Foreword by Lynne M. Black Jr."
 			},
 			{
-				"name"  : "The Mission, The Men, and Me",
-				"link"  : "http://amzn.to/2lINYPd",
-				"title" : "As a commander of Delta Force-the most elite counter-terrorist organization in the world-Pete Blaber took part in some of the most dangerous, controversial, and significant military and political events of our time. Now he takes his intimate knowledge of warfare-and the heart, mind, and spirit it takes to win-and moves his focus from the combat zone to civilian life."
+				"name"  	: 	"The Mission, The Men, and Me",
+				"link"  	: 	"http://amzn.to/2lINYPd",
+				"title" 	: 	"As a commander of Delta Force-the most elite counter-terrorist organization in the world-Pete Blaber took part in some of the most dangerous, controversial, and significant military and political events of our time. Now he takes his intimate knowledge of warfare-and the heart, mind, and spirit it takes to win-and moves his focus from the combat zone to civilian life."
 			},
 			{
-				"name"  : "Relentless Strike",
-				"link"  : "http://amzn.to/2mLUCUw",
-				"title" : "Relentless Strike tells the inside story of Joint Special Operations Command, the secret military organization that during the past decade has revolutionized counterterrorism, seamlessly fusing intelligence and operational skills to conduct missions that hit the headlines, and those that have remained in the shadows-until now. Because JSOC includes the military's most storied special operations units-Delta Force, SEAL Team 6, the 75th Ranger Regiment-as well as America's most secret aviation and intelligence units, this is their story, too."
+				"name"  	: 	"Relentless Strike",
+				"link"  	: 	"http://amzn.to/2mLUCUw",
+				"title" 	: 	"Relentless Strike tells the inside story of Joint Special Operations Command, the secret military organization that during the past decade has revolutionized counterterrorism, seamlessly fusing intelligence and operational skills to conduct missions that hit the headlines, and those that have remained in the shadows-until now. Because JSOC includes the military's most storied special operations units-Delta Force, SEAL Team 6, the 75th Ranger Regiment-as well as America's most secret aviation and intelligence units, this is their story, too."
 			},
 			{
-				"name"  : "Five Years to Freedom",
-				"link"  : "http://amzn.to/2nkdkzm",
-				"title" : "When Green Beret Lieutenant James N. Rowe was captured in 1963 in Vietnam, his life became more than a matter of staying alive. In a Vietcong POW camp, Rowe endured beri-beri, dysentery, and tropical fungus diseases. He suffered grueling psychological and physical torment. He experienced the loneliness and frustration of watching his friends die. And he struggled every day to maintain faith in himself as a soldier and in his country as it appeared to be turning against him. His survival is testimony to the disciplined human spirit. His story is gripping."
+				"name"  	: 	"Five Years to Freedom",
+				"link"  	: 	"http://amzn.to/2nkdkzm",
+				"title" 	: 	"When Green Beret Lieutenant James N. Rowe was captured in 1963 in Vietnam, his life became more than a matter of staying alive. In a Vietcong POW camp, Rowe endured beri-beri, dysentery, and tropical fungus diseases. He suffered grueling psychological and physical torment. He experienced the loneliness and frustration of watching his friends die. And he struggled every day to maintain faith in himself as a soldier and in his country as it appeared to be turning against him. His survival is testimony to the disciplined human spirit. His story is gripping."
 			}
 		]
 	},
