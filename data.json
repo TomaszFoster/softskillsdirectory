@@ -678,6 +678,11 @@
 				"name"  : "Over API",
 				"link"  : "https://www.overapi.com/",
 				"title" : "Probably the most extensive source of API cheat sheets there is"
+			},
+			{
+				"name"  : "Concise Electronics for Geeks",
+				"link"  : "http://lcamtuf.coredump.cx/electronics/",
+				"title" : "Self explanatory"
 			}
 		]
 	},
