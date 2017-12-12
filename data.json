@@ -117,7 +117,7 @@
 			}
 		]
 	},
-	"podcats" : {
+	"podcasts" : {
 		"title" : "podcasts",
 		"links" : [
 			{
@@ -592,6 +592,11 @@
 				"name"  : "DoD Resources",
 				"link"  : "https://www.defense.gov/Resources",
 				"title" : "Defense.gov resoureces. A lot of great questions answered."
+			},
+			{
+				"name"  : "Project Gutenberg",
+				"link"  : "http://www.gutenberg.org/wiki/Technology_(Bookshelf)",
+				"title" : "Free books and readings on various topics. This link is for their technology bookshelf but there are many, many more books on the main page."
 			}
 		]
 	},
