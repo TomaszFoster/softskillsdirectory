@@ -787,6 +787,11 @@
 				"name"  : "Georgia Tech free math textbook collective",
 				"link"  : "http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html",
 				"title" : "Exactly what it sounds like"
+			},
+			{
+				"name"  : "Math for FireFighters",
+				"link"  : "http://www.firefightermath.org/",
+				"title" : "Self paced math course refresh for firefighters knowledge of basic math concepts and tools necessary for making math calculations in the field. Topics include calculating tank volumes and flow rates, determining pump pressure and friction loss, understanding maps and location coordinates, and estimating slope. Additionally, the course presents information on calculating flame length, flame height, midflame windspeed, and other variables related to wildland firefighting efforts."
 			}
 		]
 	}
