@@ -203,6 +203,12 @@
 				"price" : "cost"
 			},
 			{
+				"name"  : "SOLO Schools",
+				"link"  : "https://www.soloschools.com/",
+				"title" : "Wilderness First Aid, First Responder, EMT, and others including Disaster, Travel, and Search and Rescue",
+				"price" : "cost"
+			},
+			{
 				"name"  : "REI Wilderness Medicine",
 				"link"  : "https://www.rei.com/outdoorschool/wilderness-medicine-classes.html",
 				"title" : "REI offers similar courses to NOLS in terms of WFR, WAFA, WEMT, etc",
