@@ -31,7 +31,7 @@
 	  				
 	  				<div class="subject">
 	  					
-	  					<h3 <?php echo $c['alt']!=null ? 'title="' . $c['alt'] . '" class="has-description"' : '' ; ?>>
+	  					<h3 <?php echo (isset($c['alt']) && $c['alt']!=null) ? 'title="' . $c['alt'] . '" class="has-description"' : '' ; ?>>
 
 	  						<?php echo $c['title']; ?>
 
@@ -42,16 +42,16 @@
 		  					<?php foreach( $c['links'] as $item ): ?>
 
 		  						<li class="item <?php 
-		  							echo $item['price']=='cost' ? 'not-free' : ''; 
-		  							echo $item['vet']=='yes' ? ' gi-bill' : ''; 
-		  							echo $item['extra']=='recommended' ? ' recommended' : '';
+		  							echo (isset($item['price']) && $item['price'])=='cost' ? 'not-free' : ''; 
+		  							echo (isset($item['vet']) && $item['vet'])=='yes' ? ' gi-bill' : ''; 
+		  							echo (isset($item['extra']) && $item['extra'])=='recommended' ? ' recommended' : '';
 		  						?>">
 
 		  						<?php 
 		  							// recommended link icon
-		  							echo $item['extra']=='recommended' ? '<i class="fa fa-check" aria-hidden="true"></i>' : ''; 
+		  							echo (isset( $item['extra'] ) && $item['extra'])=='recommended' ? '<i class="fa fa-check" aria-hidden="true"></i>' : ''; 
 		  							// icon for courses that cost money
-		  							echo $item['price']=='cost' ? '<i class="fa fa-usd" aria-hidden="true"></i>' : ''; 
+		  							echo (isset( $item['price'] ) && $item['price'])=='cost' ? '<i class="fa fa-usd" aria-hidden="true"></i>' : ''; 
 
 		  						?>
 
@@ -59,7 +59,7 @@
 
 					  					<?php 
 					  						echo $item['name']; 
-					  						echo $item['author']!=NULL ? '  <span class="author"> by '.$item['author'].'</span>' : '';
+					  						echo (isset( $item['author'] ) && $item['author'])!=NULL ? '  <span class="author"> by '.$item['author'].'</span>' : '';
 					  					?>
 
 					  				</a>
