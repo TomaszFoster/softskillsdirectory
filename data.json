@@ -694,6 +694,11 @@
 				"name"  : "Concise Electronics for Geeks",
 				"link"  : "http://lcamtuf.coredump.cx/electronics/",
 				"title" : "Self explanatory"
+			},
+			{
+				"name"  : "Federal Virtual Training Environment",
+				"link"  : "https://fedvte.usalearning.gov",
+				"title" : "The Federal Virtual Training Environment (FedVTE) provides free online cybersecurity training to U.S. government employees, Federal contractors, and veterans."
 			}
 		]
 	},
