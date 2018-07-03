@@ -1,7 +1,7 @@
 
 	    <footer>
 	    	<p class="text-small">
-	    		"The chains of habit are too light to be felt until they're too heavy to be broken." - Warren Buffet
+				“The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” – Thucydides
 	    	</p>
 	    	<p class="text-small">
 	    		*Any proceeds benefit Spikes K9 Fund&nbsp;&nbsp; | &nbsp;&nbsp;Questions? Comments? <a class="email" href="mailto:tomaszfoster@gmail.com">tomaszfoster@gmail.com</a>
