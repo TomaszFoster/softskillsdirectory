@@ -803,6 +803,11 @@
 				"name"  : "Math for FireFighters",
 				"link"  : "http://www.firefightermath.org/",
 				"title" : "Self paced math course refresh for firefighters knowledge of basic math concepts and tools necessary for making math calculations in the field. Topics include calculating tank volumes and flow rates, determining pump pressure and friction loss, understanding maps and location coordinates, and estimating slope. Additionally, the course presents information on calculating flame length, flame height, midflame windspeed, and other variables related to wildland firefighting efforts."
+			},
+			{
+				"name" : "Public Intelligence",
+				"link": "https://publicintelligence.net/",
+				"title" : "This site is an attempt to compile and defend public information using software and methods which are open source and available to the public at large. It is our hope that by making such information available and demonstrating the power of a public resolved to inform itself, we may engender a more informed and proactive populace. Within our first two years of operation, we have already received more than twenty threats and takedown notices from government agencies and corporations around the world for publishing documents discovered via open source methods available to any member of the public. No information has ever been removed or censored."
 			}
 		]
 	}
