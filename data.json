@@ -243,12 +243,6 @@
 				"link"  : "http://darkangelmedical.com/training/",
 				"title" : "IFAKs and Direct Action Response Training",
 				"price" : "cost"
-			},
-			{
-				"name" 	: "Academi: Tactical SWAT Medical",
-				"link"	: "https://www.academi.com/training-courses/course-title/tactical-swat-medical-course/overview",
-				"title"	: "2 and 5 Day Tactical SWAT Medical Courses taught by Academi. Open to civilians.",
-				"price"	: "cost"
 			}
 		]
 	},
@@ -293,19 +287,13 @@
 			}
 		]
 	},
-	"shooting" : {
-		"title" : "shooting",
+	"tactical" : {
+		"title" : "tactical",
 		"links" : [
 			{
 				"name"  : "Appleseed Project",
 				"link"  : "https://appleseedinfo.org/",
 				"title" : "They 'promote civic responsibility through the teaching of colonial history and the American tradition of rifle marksmanship'. Beginners and experienced shooters will benefit from this course and costs are typically very low and have offerings in every state.",
-				"price"	: "cost"
-			},
-			{
-				"name"  : "SOFLETE Shooting",
-				"link"  : "https://soflete.com/products/soflete-shooting",
-				"title" : "The range is one thing, but how well would you shoot if things really went down? With The Soflete Shooters Program, it’s easy to learn professional techniques that will help get you ready for any situation. Built using the latest tactics from special operations and competitive shooters, you’ll use live and dry fire drills to develop your skills under real-world stress conditions. Giving you all the tools you need, to take your shot to the next level.",
 				"price"	: "cost"
 			},
 			{
@@ -330,6 +318,12 @@
 				"name" 	: "Outdoor Life: Long Range Rifle",
 				"link" 	: "http://www.outdoorlife.com/photos/gallery/guns/rifles/2011/08/sniper-school-precision-long-range-shooting",
 				"title"	: "Great article on long range rifle hunting and proper setup. Dry fire is your friend."
+			},
+			{
+				"name"  : "SOFLETE Shooting",
+				"link"  : "https://soflete.com/products/soflete-shooting",
+				"title" : "The range is one thing, but how well would you shoot if things really went down? With The Soflete Shooters Program, it’s easy to learn professional techniques that will help get you ready for any situation. Built using the latest tactics from special operations and competitive shooters, you’ll use live and dry fire drills to develop your skills under real-world stress conditions. Giving you all the tools you need, to take your shot to the next level.",
+				"price"	: "cost"
 			},
 			{
 				"name"  : "Brian Enos",
