@@ -362,6 +362,12 @@
 				"title" : "Awesome show online and I believe seaons 5 and 6 are on Netflix still.",
 				"type"	: "show",
 				"extra"	: "recommended"
+			},
+			{
+				"name" : "New Hampshire Outdoor Learning Center",
+				"link" : "http://nhoutdoorlearning.com",
+				"title" : "Various outdoors classes offered varying from hunting various game, wilderness survival, canoeing, game processing and others.",
+				"price" : "cost"
 			}
 		]
 	},
