@@ -297,9 +297,9 @@
 				"price"	: "cost"
 			},
 			{
-				"name"	: "Courses of Action",
-				"link"	: "https://www.courses-of-action.com/",
-				"title"	: "Carbine, Pistol, Small Unit Tactics. Taught by former SOF members.",
+				"name"	: "Rune Nation",
+				"link"	: "https://www.runenationllc.com/",
+				"title"	: "Carbine, Pistol, Combatives, Vehicular Survival, etc. Taught by a former Marine and all around nice guy.",
 				"price" : "cost"
 			},
 			{
@@ -334,7 +334,13 @@
 				"name"  : "Haley Strategic Blog",
 				"link"  : "https://www.haleystrategic.com/?route=pavblog/blogs",
 				"title" : "Aside from making some awesome gear including belts and holsters, Haley Strategic has a great blog filled with a lot of take aways in short, easy to digest videos. Highly recommend"
-			}
+			},
+			{
+				"name"	: "Courses of Action",
+				"link"	: "https://www.courses-of-action.com/",
+				"title"	: "Carbine, Pistol, Small Unit Tactics. Taught by former SOF members.",
+				"price" : "cost"
+			},
 		]
 	},
 	"hunting" : {
