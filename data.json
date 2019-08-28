@@ -705,6 +705,11 @@
 				"name"  : "Federal Virtual Training Environment",
 				"link"  : "https://fedvte.usalearning.gov",
 				"title" : "The Federal Virtual Training Environment (FedVTE) provides free online cybersecurity training to U.S. government employees, Federal contractors, and veterans."
+			},
+			{
+				"name" : "Kubernetics Academy",
+				"link" : "https://kubernetes.academy/courses",
+				"title" : "Free online courses on using kubernetics"
 			}
 		]
 	},
